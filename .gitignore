@@ -1,5 +1,5 @@
 # Secrets de práctica — NO subir a GitHub (repo público)
-**/lab-bandit.md
+**/*bandit*.md
 *.pkt
 *.env
 .DS_Store
