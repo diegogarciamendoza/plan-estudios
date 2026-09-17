@@ -45,7 +45,7 @@
 - [ ] Primer README.md con tu contexto y objetivo (en tu propio markdown, practicando formato).
 
 ### Documentación (2 h)
-- [ ] Estructura de tu carpeta de estudio: `notas/`, `labs/`, `entregables/`, `ingles/`.
+- [ ] Estructura de tu carpeta de estudio: `diario/` + `M1-fundamentos/` (todo plano, con prefijo `lab-` / `entregable-`).
 - [ ] Plantilla de nota de estudio (tema → qué aprendí → 1 ejemplo práctico).
 
 ### Inglés aplicado a SOC (2 h)
@@ -104,7 +104,7 @@
 - [ ] Completar los **5 comandos PowerShell restantes** (total 10) documentados en el repo.
 
 ### Documentación (2 h)
-- [ ] Documento `entregables/10-consultas-sql.md`: pregunta → consulta → resultado (con las 10).
+- [ ] Documento `M1-fundamentos/entregable-10-consultas-sql.md`: pregunta → consulta → resultado (con las 10).
 
 ### Inglés aplicado a SOC (2 h)
 - [ ] Vocabulario semana 3: *query, filter, correlate, baseline, anomaly, brute force, enumeration, permissions, privilege*.
@@ -130,7 +130,7 @@
 - [ ] Mapear **1 técnica de MITRE** que hayas observado en tus logs/capturas (ej. fuerza bruta ≈ T1110) en tu nota.
 
 ### Documentación (2 h)
-- [ ] **Investigación básica con Wireshark**: captura + 3 hallazgos + conclusión (1 página) en `entregables/`.
+- [ ] **Investigación básica con Wireshark**: captura + 3 hallazgos + conclusión (1 página) en `M1-fundamentos/` (prefijo `entregable-`).
 - [ ] Terminar el **mapa de red final** con lo aprendido de VLAN/NAT/DNS.
 
 ### Empleo (parte de las 2 h de esta semana)
