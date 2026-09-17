@@ -3,3 +3,14 @@ labs/bandit.md
 labs/*.pkt
 *.env
 .DS_Store
+
+# Obsidian: estado local de la app (no se comparte)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Obsidian: binarios de plugins (varios MB; se reinstalan desde Community plugins en cada máquina)
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json

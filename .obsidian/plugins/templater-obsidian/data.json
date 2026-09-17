@@ -1,0 +1,12 @@
+{
+  "data_version": 2,
+  "templates_folder": "notas",
+  "trigger_on_file_creation_mode": "none",
+  "auto_jump_to_cursor": false,
+  "jump_to_cursor_after_file_name": false,
+  "enable_system_commands": false,
+  "user_scripts_folder": "",
+  "folder_templates": [],
+  "file_templates": [],
+  "syntax_highlighting": true
+}
