@@ -1,0 +1,11 @@
+# Normaliza saltos de línea: evita diffs "fantasma" (CRLF/LF) que rompen el pull
+# en el vault de Obsidian cuando Windows re-guarda archivos.
+* text=auto eol=lf
+
+# Binarios: nunca tocar texto
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.pkt binary
