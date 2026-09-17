@@ -26,8 +26,8 @@ Estructura del vault: `diario/` (una nota por día), `M1-fundamentos/` (esta fas
 ## Lunes — Día 1 (3 h): despegar 🎓1.5 + 🧪1.5
 
 - [ ] 🎓 Cert Google Curso 1: módulo 1 — qué es un SOC, por qué existe la ciberseguridad, dominios de seguridad. *(Nota diaria con la plantilla `plantillas/diaria.md`.)*
-- [ ] 🧪 Shell: `pwd`, `ls`, `cd`, `cat`, `less`, `man` — 30 min en terminal real (TUI/GNOME Terminal).
-- [ ] 🧪 Git: hacer tu **primer commit del día** con las notas del día. *(Pon en el alias: `git add . && git commit -m "Día 1 ..."`)*
+- [x] 🧪 Shell: `pwd`, `ls`, `cd`, `cat`, `less`, `man` — 30 min en terminal real (TUI/GNOME Terminal).
+- [x] 🧪 Git: hacer tu **primer commit del día** con las notas del día. *(Pon en el alias: `git add . && git commit -m "Día 1 ..."`)*
 
 **Hecho cuando:** tienes un commit con las notas del día y sabes explicar qué es un SOC en 2 oraciones.
 
