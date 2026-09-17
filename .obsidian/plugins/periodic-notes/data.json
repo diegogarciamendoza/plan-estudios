@@ -9,14 +9,38 @@
       "day": {
         "enabled": true,
         "openAtStartup": false,
-        "format": "",
+        "format": "YYYY-MM-DD",
+        "templatePath": "notas/plantilla-nota.md",
+        "folder": "notas/diario"
+      },
+      "week": {
+        "enabled": false,
+        "openAtStartup": false,
+        "format": "gggg-[W]ww",
+        "templatePath": "",
+        "folder": "notas/semanal"
+      },
+      "month": {
+        "enabled": false,
+        "openAtStartup": false,
+        "format": "YYYY-MM",
         "templatePath": "",
         "folder": ""
       },
-      "week": {},
-      "month": {},
-      "quarter": {},
-      "year": {},
+      "quarter": {
+        "enabled": false,
+        "openAtStartup": false,
+        "format": "YYYY-[Q]Q",
+        "templatePath": "",
+        "folder": ""
+      },
+      "year": {
+        "enabled": false,
+        "openAtStartup": false,
+        "format": "YYYY",
+        "templatePath": "",
+        "folder": ""
+      },
       "id": "Default",
       "ctime": "2026-09-16T20:50:29-06:00"
     }
