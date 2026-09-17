@@ -19,13 +19,13 @@ git remote add origin https://github.com/TU_USUARIO/plan-estudios.git
 git push -u origin main
 ```
 
-Carpetas ya creadas por el asistente: `notas/`, `labs/`, `entregables/`, `ingles/` + `notas/plantilla-nota.md` + `ingles/glosario-soc.md` (20 términos). Úsalas tal cual.
+Estructura del vault: `diario/` (una nota por día), `M1-fundamentos/` (esta fase: semanas, labs y entregables — todo plano, con prefijo `lab-` / `entregable-`), `plantillas/` (diaria y tema) y `glosario.md` (inglés). Sin subcarpetas: si dudas, va en el módulo actual.
 
 ---
 
 ## Lunes — Día 1 (3 h): despegar 🎓1.5 + 🧪1.5
 
-- [ ] 🎓 Cert Google Curso 1: módulo 1 — qué es un SOC, por qué existe la ciberseguridad, dominios de seguridad. *(Nota en `notas/` con la plantilla.)*
+- [ ] 🎓 Cert Google Curso 1: módulo 1 — qué es un SOC, por qué existe la ciberseguridad, dominios de seguridad. *(Nota diaria con la plantilla `plantillas/diaria.md`.)*
 - [ ] 🧪 Shell: `pwd`, `ls`, `cd`, `cat`, `less`, `man` — 30 min en terminal real (TUI/GNOME Terminal).
 - [ ] 🧪 Git: hacer tu **primer commit del día** con las notas del día. *(Pon en el alias: `git add . && git commit -m "Día 1 ..."`)*
 
@@ -44,7 +44,7 @@ Carpetas ya creadas por el asistente: `notas/`, `labs/`, `entregables/`, `ingles
 
 - [ ] 🎓 HTTP/HTTPS y **TLS en 5 ideas**: cifrado, certificados, handshake resumido (ClientHello/ServerHello), por qué HTTPS no es "seguro" por sí solo (certificado correcto ≠ sitio bueno).
 - [ ] 🧪 Bandit niveles 2–4 (usar `ls -la`, `cat`, `find` como pista de cada nivel).
-- [ ] 🧪 Terminar de practicar `cp/mv/rm` con la estructura de casa (`~/plan-estudios/notas`).
+- [ ] 🧪 Terminar de practicar `cp/mv/rm` con la estructura de casa (`~/plan-estudios/diario`).
 
 **Hecho cuando:** Bandit 0–4 y puedes explicar el handshake TLS en 3 frases.
 
@@ -52,7 +52,7 @@ Carpetas ya creadas por el asistente: `notas/`, `labs/`, `entregables/`, `ingles
 
 - [ ] 🧪 Bandit **nivel 5** (el `find` con tamaño de archivo).
 - [ ] 🧪 Git: `git status`, `git log --oneline`, `git diff`, deshacer con `git restore`; practicar en el repo.
-- [ ] 📝 Estructura de tu carpeta: asegúrate de `notas/`, `labs/`, `entregables/`, `ingles/` con algo dentro cada una (aunque sea un placeholder honesto).
+- [ ] 📝 Estructura de tu carpeta: asegúrate de que `diario/` y `M1-fundamentos/` tengan algo dentro cada una (aunque sea un placeholder honesto).
 
 **Hecho cuando:** Bandit 0–5 ✅ y tienes 3+ commits distintos en el repo.
 
@@ -65,8 +65,8 @@ Carpetas ya creadas por el asistente: `notas/`, `labs/`, `entregables/`, `ingles
 
 ## Sábado — Día 6 (3.5 h): inglés + cierre 🇬🇧2 + 🧪1.5
 
-- [ ] 🇬🇧 **Glosario SOC** (`ingles/glosario-soc.md`): leer los 20 términos, agregar tu propia definición de 1 línea en inglés a cada uno (la del asistente es base; escríbela TÚ con tus palabras).
-- [ ] 🇬🇧 Leer en voz alta la intro de <https://attack.mitre.org> (sección "What is ATT&CK?") y anotar 5 palabras nuevas en `ingles/`.
+- [ ] 🇬🇧 **Glosario SOC** (`glosario.md`): leer los 20 términos, agregar tu propia definición de 1 línea en inglés a cada uno (la del asistente es base; escríbela TÚ con tus palabras).
+- [ ] 🇬🇧 Leer en voz alta la intro de <https://attack.mitre.org> (sección "What is ATT&CK?") y anotar 5 palabras nuevas en `glosario.md`.
 - [ ] 🧪 Vuelta rápida al shell y Bandit: repetir un nivel que haya costado (refuerzo con memoria muscular).
 
 **Hecho cuando:** glosario con tus definiciones + 5 palabras nuevas anotadas.
@@ -80,10 +80,10 @@ Carpetas ya creadas por el asistente: `notas/`, `labs/`, `entregables/`, `ingles
 ## Criterios de "semana 1 completada" (checklist final)
 
 - [ ] Coursera Plus activo y Curso 1 iniciado (primer módulo terminado).
-- [ ] Bandit niveles 0–5 completados (screenshot o nota con contraseñas de niveles en `labs/bandit.md`).
+- [ ] Bandit niveles 0–5 completados (screenshot o nota con contraseñas de niveles en `M1-fundamentos/lab-bandit.md`).
 - [ ] Repo `plan-estudios` en GitHub con **4+ commits** y README con objetivo.
 - [ ] Glosario de 20 términos con tus definiciones en inglés.
-- [ ] Notas de cada día usando la plantilla (`notas/plantilla-nota.md`).
+- [ ] Notas de cada día usando la plantilla (`plantillas/tema.md`).
 - [ ] Commit final del domingo con todo.
 
 ## Trampas típicas (evítalas)

@@ -1,6 +1,6 @@
 # Plantilla de nota de estudio
 
-> Copia este archivo a `notas/` con el nombre del tema (ej. `notas/dia-01-soc.md`) y rellénalo.
+> Créalo dentro del módulo actual (ej. `M1-fundamentos/tema-dns.md`) y rellénalo.
 
 ## Tema
 

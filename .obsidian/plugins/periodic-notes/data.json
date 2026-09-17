@@ -10,15 +10,15 @@
         "enabled": true,
         "openAtStartup": false,
         "format": "YYYY-MM-DD",
-        "templatePath": "notas/plantilla-nota.md",
-        "folder": "notas/diario"
+        "templatePath": "plantillas/diaria.md",
+        "folder": "diario"
       },
       "week": {
         "enabled": false,
         "openAtStartup": false,
         "format": "gggg-[W]ww",
         "templatePath": "",
-        "folder": "notas/semanal"
+        "folder": "semanal"
       },
       "month": {
         "enabled": false,

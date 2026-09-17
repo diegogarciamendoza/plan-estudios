@@ -23,8 +23,8 @@
 | M2 | Meses 7–8 | Security+ SY0-701 | **Security+** 🎯 |
 | M3 | Meses 9–12 | Especialización por vacantes + CySA+ solo si aplica | CySA+/eJPT (opcional) |
 
-📄 [GENERAL.md](GENERAL.md) — plan completo · 📅 [MES-1-DETALLADO.md](MES-1-DETALLADO.md) — mes 1
-🧭 [SEMANA-1.md](SEMANA-1.md) — semana actual
+📄 [GENERAL.md](GENERAL.md) — plan completo · 📅 [MES-1-DETALLADO.md](M1-fundamentos/MES-1-DETALLADO.md) — mes 1
+🧭 [SEMANA-1.md](M1-fundamentos/SEMANA-1.md) — semana actual · 📋 [Tablero](M1-fundamentos/tablero.md)
 
 ## 📈 Progreso semanal
 
@@ -41,20 +41,42 @@ _Leyenda: ✅ hecho · 🔄 en curso · ⬜ pendiente_
 
 ```
 plan-estudios/
-├── README.md          ← este archivo (índice y progreso)
-├── GENERAL.md         ← plan de 12 meses
-├── MES-1-DETALLADO.md ← plan detallado mes 1
-├── SEMANA-1.md        ← plan día a día semana 1
-├── notas/             ← notas diarias (plantilla incluida)
-├── labs/              ← labs y comandos (Bandit, Packet Tracer, ...)
-├── entregables/       ← investigaciones y entregables de fin de mes
-└── ingles/            ← glosario SOC, vocabulario semanal
+├── README.md           ← este archivo (índice, progreso y últimas notas)
+├── GENERAL.md          ← plan de 12 meses (el mapa)
+├── glosario.md         ← inglés: términos SOC (crece todo el año)
+├── vacantes-*.md       ← mercado laboral (referencia)
+├── diario/             ← una nota por día de estudio (YYYY-MM-DD)
+├── M1-fundamentos/     ← fase actual: MES-1-DETALLADO, SEMANA-N, lab-*, entregable-*
+├── M2-security-plus/   ← meses 7-8
+├── M3-especializacion/ ← meses 9-12
+└── plantillas/         ← diaria.md (nota del día) · tema.md (nota de estudio)
+```
+
+**Regla:** dentro de un módulo todo va plano (sin subcarpetas). Si dudas dónde guardar algo, va en el módulo en el que estás ahora.
+
+## 🧭 Cómo lo uso a diario
+
+1. **Nota del día:** `Ctrl+P` → "Periodic Notes: Open daily note" (se crea sola en `diario/` con la plantilla).
+2. **3 bullets de lo aprendido + un comando del día.** 5 minutos al cerrar el bloque de estudio.
+3. **Labs y entregables:** en el módulo actual, con prefijo `lab-` o `entregable-`.
+4. **Domingo:** ✅ en la tabla de progreso de arriba y en `M1-fundamentos/tablero.md`.
+5. **Sync:** automático cada 30 min con Obsidian abierto (`Ctrl+P` → "Git: Commit-and-sync" para forzar).
+
+Teclas: `Ctrl+O` abrir rápido · `Ctrl+Shift+F` buscar en todo · `Ctrl+E` leer/editar.
+
+## 🕒 Últimas notas
+
+```dataview
+TABLE WITHOUT ID file.link AS "Nota", file.mtime AS "Editada"
+FROM "diario" OR "M1-fundamentos"
+SORT file.mtime DESC
+LIMIT 8
 ```
 
 ## 🔒 Notas personales
 
 - Este repo es **público** (muestra evidencia de estudio y progreso — suma al CV).
-- ⚠️ Nada de credenciales reales ni datos sensibles: **las contraseñas de Bandit van en `labs/bandit.md` que está en `.gitignore`** (no se suben).
+- ⚠️ Nada de credenciales reales ni datos sensibles: **las contraseñas de Bandit van en `M1-fundamentos/lab-bandit.md` (y cualquier archivo `lab-bandit*.md` está en `.gitignore`, no se suben)**.
 - Regla de oro: **un commit por día de estudio** — si no está en el repo, no está hecho.
 
 ---
