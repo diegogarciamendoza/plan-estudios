@@ -1,12 +1,9 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Pendiente (semana 1)
 
-- [ ] 🎓 Coursera: Curso 1 "Foundations of Cybersecurity" — módulo 1 terminado
 - [ ] 🧪 Bandit niveles 0-5 (ver [[SEMANA-1]])
 - [ ] 📝 README con mi objetivo (se lee en 30 s)
 - [ ] 🇬🇧 Glosario: 20 términos con mi definición en inglés
@@ -14,12 +11,13 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🎓 Curso 1 Foundations of Cybersecurity
+- [ ] 🎓 Curso 1 Foundations of Cybersecurity — siguientes módulos
 
 ## Hecho
 
-- [ ] Repo + vault de Obsidian con auto-sync
-
+- [x] Repo + vault de Obsidian con auto-sync
+- [x] 🎓 Coursera: Curso 1 "Foundations of Cybersecurity" — módulo 1 terminado
+- [x] 🧪 Cisco Packet Tracer: curso "Getting Started" + actividad Logical/Physical Mode
 
 %% kanban:settings
 ```
