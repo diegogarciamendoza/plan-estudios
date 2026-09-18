@@ -35,7 +35,7 @@ Estructura del vault: `diario/` (una nota por día), `M1-fundamentos/` (esta fas
 
 - [ ] 🎓 Modelo TCP/IP vs OSI: capas y para qué sirve cada una (Messer u otro video si hace falta).
 - [ ] 🎓 **DNS**: qué resuelve, registros A/AAAA/MX/CNAME, cómo se ve una consulta.
-- [ ] 🧪 Comandos `touch`, `mkdir`, `cp`, `mv`, `rm` en el shell (5 min de práctica mental → 20 min de terminal).
+- [ ] 🧪 **Linux self-paced**: hacer la lección *Linux Fundamentals (Part 1)* de **[TryHackMe free tier](https://tryhackme.com) — tiene la teoría y los ejercicios verificados en la misma página**, así practicas Linux con fundamento (no comandos al azar). Alternativa práctica de refuerzo: [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) nivel 0 y 1.
 - [ ] 🧪 Bandit nivel 0 y 1 (OverTheWire): `ssh bandit0@bandit.labs.overthewire.org -p 2220`, contraseña `bandit0`.
 
 **Hecho cuando:** explicas el flujo de "escribir `google.com` en el navegador → responde el servidor" sin mirar apuntes, y pasaste Bandit 0–1.
