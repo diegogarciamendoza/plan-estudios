@@ -19,7 +19,7 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "mergeStrategy": "none",
-  "customMessageOnAutoBackup": true,
+  "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
@@ -37,5 +37,34 @@
   "dateInHistoryView": false,
   "diffStyle": "split",
   "diffTimeout": 50,
-  "autoStageOnEmptyIndex": true
+  "autoStageOnEmptyIndex": true,
+  "hunks": {
+    "showSigns": false,
+    "hunkCommands": false,
+    "statusBar": "disabled"
+  },
+  "lineAuthor": {
+    "show": false,
+    "followMovement": "inactive",
+    "authorDisplay": "initials",
+    "showCommitHash": false,
+    "dateTimeFormatOptions": "date",
+    "dateTimeFormatCustomString": "YYYY-MM-DD HH:mm",
+    "dateTimeTimezone": "viewer-local",
+    "coloringMaxAge": "1y",
+    "colorNew": {
+      "r": 255,
+      "g": 150,
+      "b": 150
+    },
+    "colorOld": {
+      "r": 120,
+      "g": 160,
+      "b": 255
+    },
+    "textColorCss": "var(--text-muted)",
+    "ignoreWhitespace": false,
+    "lastShownAuthorDisplay": "initials",
+    "lastShownDateTimeFormatOptions": "date"
+  }
 }
