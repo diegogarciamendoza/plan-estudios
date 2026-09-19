@@ -26,7 +26,7 @@
 
 ## 📌 Día actual
 
-**▶️ Día 2** · [diario/2026-09-18.md](diario/2026-09-18.md)
+**▶️ Día 3** · [diario/2026-09-19.md](diario/2026-09-19.md)
 
 ## 📈 Progreso diario (en qué día voy)
 
@@ -35,8 +35,8 @@ _`[x]` hecho · `[ ]` pendiente — marca al cerrar cada día de estudio; el lin
 | Día | Tema | Estado |
 |---|---|---|
 | **01** | Shell: `pwd ls cd cat less man` | ✅ [nota](diario/2026-09-17.md) |
-| 02 | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | 🔄 [nota](diario/2026-09-18.md) |
-| 03 | HTTP/TLS + Bandit 2–4 | ⬜ |
+| 02 | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | 🔄 [nota](diario/2026-09-18.md) · falta DNS |
+| 03 | HTTP/TLS + Bandit 2–4 | 🔄 [nota](diario/2026-09-19.md) |
 | 04 | Git + Bandit 5 | ⬜ |
 | 05 | Messer Network + README | ⬜ |
 | 06 | Inglés + glosario SOC | ⬜ |
@@ -82,4 +82,4 @@ Teclas: `Ctrl+O` abrir rápido · `Ctrl+Shift+F` buscar en todo · `Ctrl+E` leer
 - **"Modified" fantasma** (LF↔CRLF, diff vacío): costumbre de Obsidian en Windows; descartar con `git checkout -- <archivo>`.
 
 ---
-_Actualizado: Día 2 · 2026-09-18 · Semana 1_
+_Actualizado: Día 3 · 2026-09-19 · Semana 1_
