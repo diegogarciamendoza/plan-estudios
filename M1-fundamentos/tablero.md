@@ -18,6 +18,7 @@ kanban-plugin: board
 - [x] Repo + vault de Obsidian con auto-sync
 - [x] 🎓 Coursera: Curso 1 "Foundations of Cybersecurity" — módulo 1 terminado
 - [x] 🧪 Cisco Packet Tracer: curso "Getting Started" + actividad Logical/Physical Mode
+- [x] 🧪 RegexOne: curso interactivo de regex completo (18 lecciones) — 2026-09-18 *(evidencia: declarado, [[2026-09-18]])*
 
 %% kanban:settings
 ```
