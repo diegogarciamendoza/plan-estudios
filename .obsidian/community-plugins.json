@@ -4,5 +4,10 @@
   "templater-obsidian",
   "periodic-notes",
   "obsidian-kanban",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-paste-image-rename",
+  "obsidian-tasks-plugin",
+  "oz-clear-unused-images"
 ]
