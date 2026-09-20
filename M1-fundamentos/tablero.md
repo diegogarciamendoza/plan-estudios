@@ -10,7 +10,7 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🧪 Bandit niveles 0–5 — **0→3 ✅**, atorado en el nivel 4 (contraseñas en `lab-bandit.md`, local)
+- [ ] 🧪 Bandit niveles 0–5 — **0→4 ✅**, siguiente: nivel 5 (contraseñas en `lab-bandit.md`, local)
 - [ ] 🎓 Curso 1 Foundations of Cybersecurity — siguientes módulos
 
 ## Hecho
