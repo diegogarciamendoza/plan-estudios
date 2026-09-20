@@ -48,6 +48,17 @@
 | How HTTPS works (DNSimple) | <https://howhttps.works/> | Cómic visual y preciso: el handshake paso a paso |
 | RFC 9846 — TLS 1.3 (julio 2026) | <https://datatracker.ietf.org/doc/html/rfc9846> | Fuente **autoritativa y vigente**: obsoleta el RFC 8446 (y el 5246, TLS 1.2). Para consultar, no leer entera |
 
+### DNS — fuentes para profundizar (cuando toque, no hoy)
+
+| Fuente | URL | Para qué |
+|---|---|---|
+| How DNS works (DNSimple) | <https://howdns.works/> | Cómic visual: qué pasa entre escribir un dominio y ver la página |
+| DNS for Rocket Scientists (Zytrax) | <https://www.zytrax.com/books/dns/> | Referencia gratis con **formato de zona** y todos los tipos de registro |
+| RFC 1035 | <https://datatracker.ietf.org/doc/html/rfc1035> | El estándar: §3.3 formato de cada RR (incluido MX), §5 formato de zona (*master files*) |
+| Cloudflare Learning — DNS | <https://www.cloudflare.com/learning/dns/what-is-dns/> | Explicación clara y visual (su WAF bloquea lectores automáticos: ábrela en el navegador) |
+| Prof. Messer — Network+ N10-009 | <https://www.professormesser.com/network-plus/n10-009/> | Video de DNS/HTTP, ya en el plan |
+| Práctica | `dig MX gmail.com +short` (paquete `dnsutils`) o DoH: `curl -H 'accept: application/dns-json' 'https://cloudflare-dns.com/dns-query?name=gmail.com&type=MX'` | Consultar registros reales sin instalar nada |
+
 ---
 
 ## Semana 1 — Arranque: cert + redes base + shell + Git
