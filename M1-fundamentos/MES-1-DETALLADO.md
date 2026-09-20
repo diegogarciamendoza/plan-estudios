@@ -46,7 +46,7 @@
 | MDN — Glossary: TLS | <https://developer.mozilla.org/en-US/docs/Glossary/TLS> | Definición precisa de TLS/SSL en inglés técnico sencillo (1 min) |
 | MDN — Transport Layer Security | <https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security> | Referencia de facto de la web: handshake, certificados, versiones |
 | How HTTPS works (DNSimple) | <https://howhttps.works/> | Cómic visual y preciso: el handshake paso a paso |
-| RFC 8446 — TLS 1.3 | <https://www.rfc-editor.org/rfc/rfc8446.html> | Fuente **autoritativa** (IETF) para consultar, no para leer entera |
+| RFC 9846 — TLS 1.3 (julio 2026) | <https://datatracker.ietf.org/doc/html/rfc9846> | Fuente **autoritativa y vigente**: obsoleta el RFC 8446 (y el 5246, TLS 1.2). Para consultar, no leer entera |
 
 ---
 
