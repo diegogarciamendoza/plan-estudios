@@ -16,6 +16,21 @@
 - **Mes 1 = la primera parte** (el certificado completo abarca meses 1–2). No intentes terminarlo este mes; el objetivo es la base.
 - **Ritmo**: ~8 h/semana de teoría salen del certificado; los laboratorios paralelos fijan lo que ves ahí.
 
+### Mapa del certificado (verificado 2026-09-19 en coursera.org)
+
+**8 cursos** (~170 h). El avance se cuenta así: **cursos completados / 8** y, dentro de cada curso, sus **módulos** (el Curso 1 tiene 4). La credencial de Google se emite al completar los 8 cursos.
+
+| # | Curso | Estado |
+|---|---|---|
+| 1 | Foundations of Cybersecurity *(4 módulos)* | 🔄 módulo 1 hecho — 2026-09-17 |
+| 2 | Play It Safe: Manage Security Risks | ⬜ |
+| 3 | Connect and Protect: Networks and Network Security | ⬜ |
+| 4 | Tools of the Trade: Linux and SQL | ⬜ |
+| 5 | Assets, Threats, and Vulnerabilities | ⬜ |
+| 6 | Sound the Alarm: Detection and Response | ⬜ |
+| 7 | Automate Cybersecurity Tasks with Python | ⬜ |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜ |
+
 ## Recursos del mes (gratis o ya pagados)
 
 | Recurso | URL | Para qué |

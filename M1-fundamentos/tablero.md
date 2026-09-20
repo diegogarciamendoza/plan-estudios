@@ -10,7 +10,7 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🎓 Curso 1 Foundations of Cybersecurity — siguientes módulos
+- [ ] 🎓 **Certificado Google Cybersecurity** (8 cursos) — Curso 1 *Foundations of Cybersecurity* en curso: **módulo 1/4 ✅** → siguiente: módulo 2. Mapa de cursos en [[MES-1-DETALLADO]]
 
 ## Hecho
 
@@ -19,7 +19,7 @@ kanban-plugin: board
 - [x] 🧪 Cisco Packet Tracer: curso "Getting Started" + actividad Logical/Physical Mode
 - [x] 🧪 RegexOne: curso interactivo de regex completo (18 lecciones) — 2026-09-18 *(evidencia: declarado, [[2026-09-18]])*
 - [x] 🎓 DNS: registros A/AAAA/MX/CNAME — 2026-09-19 *(evidencia: explicado con sus palabras, [[2026-09-19]])*
-- [x] 🧪 **OverTheWire Bandit niveles 0–5** — 2026-09-19, adelantado al Día 3 *(comando ganador y bloqueos en `lab-bandit.md`, local; contraseñas no se suben)*
+- [x] 🧪 **OverTheWire Bandit: cuentas 0→8 completadas** (sitio: hasta *Level 9*) — 2026-09-19, adelantado al Día 3 *(comandos ganadores y bloqueos en `lab-bandit.md`, local; contraseñas no se suben)*
 
 %% kanban:settings
 ```
