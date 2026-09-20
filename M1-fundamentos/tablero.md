@@ -20,7 +20,7 @@ kanban-plugin: board
 - [x] 🧪 RegexOne: curso interactivo de regex completo (18 lecciones) — 2026-09-18 *(evidencia: declarado, [[2026-09-18]])*
 - [x] 🎓 DNS: registros A/AAAA/MX/CNAME — 2026-09-19 *(evidencia: explicado con sus palabras, [[2026-09-19]])*
 - [x] 🧪 **OverTheWire Bandit: cuentas 0→8 completadas** (sitio: hasta *Level 9*) — 2026-09-19, adelantado al Día 3 *(comandos ganadores y bloqueos en `lab-bandit.md`, local; contraseñas no se suben)*
-- [x] 🎓 **HTTP/HTTPS + TLS**: handshake explicado en 3 frases (ClientHello → ServerHello → mensajes cifrados) — 2026-09-19 *(evidencia: teach-back en sesión; 2 correcciones aplicadas: mensajes `Certificate`/`CertificateVerify` y por qué el `MX` no lleva IP)*
+- [x] 🎓 **HTTP/HTTPS + TLS**: handshake explicado en 3 frases (ClientHello → ServerHello → mensajes cifrados) + quiz final del tutorial [How HTTPS works](https://howhttps.works/) — 2026-09-19 *(evidencia: teach-back en sesión + captura del certificado; 2 correcciones aplicadas: mensajes `Certificate`/`CertificateVerify` y por qué el `MX` no lleva IP)*
 
 %% kanban:settings
 ```
