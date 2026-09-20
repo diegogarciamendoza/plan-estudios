@@ -35,7 +35,7 @@ _`[x]` hecho · `[ ]` pendiente — marca al cerrar cada día de estudio; el lin
 | Día | Tema | Estado |
 |---|---|---|
 | **01** | Shell: `pwd ls cd cat less man` | ✅ [nota](diario/2026-09-17.md) |
-| 02 | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | 🔄 [nota](diario/2026-09-18.md) · falta DNS |
+| 02 | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | ✅ [nota](diario/2026-09-18.md) · DNS cerrado el 19 |
 | 03 | HTTP/TLS + Bandit 2–4 | 🔄 [nota](diario/2026-09-19.md) |
 | 04 | Git + Bandit 5 | ⬜ |
 | 05 | Messer Network + README | ⬜ |
@@ -52,6 +52,7 @@ plan-estudios/
 ├── glosario.md          ← inglés: términos SOC (crece todo el año)
 ├── vacantes-*.md        ← mercado laboral (referencia)
 ├── diario/              ← 1 nota por día, TODO el día: YYYY-MM-DD.md
+├── attachments/         ← imágenes/capturas (Obsidian pega aquí: `.obsidian/app.json`)
 ├── M1-fundamentos/      ← solo lo durable: SEMANA-N, MES-1, tablero, entregables grandes
 ├── M2-security-plus/    ← meses 7-8
 ├── M3-especializacion/  ← meses 9-12
