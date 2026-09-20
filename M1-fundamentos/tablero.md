@@ -7,7 +7,6 @@ kanban-plugin: board
 - [ ] 📝 README con mi objetivo (se lee en 30 s)
 - [ ] 🇬🇧 Glosario: 20 términos con mi definición en inglés
 - [ ] 🔁 4+ commits en el repo (mínimo uno por día de estudio)
-- [ ] 🎓 DNS: registros A/AAAA/MX/CNAME (pendiente del Día 2)
 
 ## En curso
 
@@ -20,6 +19,7 @@ kanban-plugin: board
 - [x] 🎓 Coursera: Curso 1 "Foundations of Cybersecurity" — módulo 1 terminado
 - [x] 🧪 Cisco Packet Tracer: curso "Getting Started" + actividad Logical/Physical Mode
 - [x] 🧪 RegexOne: curso interactivo de regex completo (18 lecciones) — 2026-09-18 *(evidencia: declarado, [[2026-09-18]])*
+- [x] 🎓 DNS: registros A/AAAA/MX/CNAME — 2026-09-19 *(evidencia: explicado con sus palabras, [[2026-09-19]])*
 
 %% kanban:settings
 ```
