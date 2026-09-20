@@ -10,7 +10,7 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🎓 Curso 1 Foundations of Cybersecurity — siguientes módulos
+- [ ] 🎓 **Certificado Google Cybersecurity** (8 cursos) — Curso 1 *Foundations of Cybersecurity* en curso: **módulo 1/4 ✅** → siguiente: módulo 2. Mapa de cursos en [[MES-1-DETALLADO]]
 
 ## Hecho
 
