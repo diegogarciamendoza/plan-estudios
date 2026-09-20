@@ -26,7 +26,7 @@
 
 ## 📌 Día actual
 
-**▶️ Día 3** · [diario/2026-09-19.md](diario/2026-09-19.md)
+**▶️ Día 3 ✅ cerrado (2026-09-19)** · [diario/2026-09-19.md](diario/2026-09-19.md) — siguiente: **Día 4** (Git + glosario; Bandit ya va por la cuenta 8)
 
 ## 📈 Progreso diario (en qué día voy)
 
@@ -34,12 +34,12 @@ _`[x]` hecho · `[ ]` pendiente — marca al cerrar cada día de estudio; el lin
 
 | Día    | Tema                                              | Estado                                             |
 | ------ | ------------------------------------------------- | -------------------------------------------------- |
-| **01** | Shell: `pwd ls cd cat less man`                   | ✅ [nota](diario/2026-09-17.md)                     |
-| 02     | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | ✅ [nota](diario/2026-09-18.md) · DNS cerrado el 19 |
-| 03     | HTTP/TLS + Bandit 2–4                             | 🔄 [nota](diario/2026-09-19.md)                    |
-| 04     | Git + Bandit 5                                    | ⬜                                                  |
-| 05     | Messer Network + README                           | ⬜                                                  |
-| 06     | Inglés + glosario SOC                             | ⬜                                                  |
+| **01** | Shell: `pwd ls cd cat less man` | ✅ [nota](diario/2026-09-17.md) |
+| 02 | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | ✅ [nota](diario/2026-09-18.md) · DNS cerrado el 19 |
+| 03 | HTTP/TLS + Bandit 2–4 | ✅ [nota](diario/2026-09-19.md) · Bandit hasta la cuenta 8 · handshake explicado |
+| 04 | Git + Bandit 5 | 🔜 siguiente (Bandit ya hecho: queda Git + glosario) |
+| 05 | Messer Network + README | ⬜ |
+| 06 | Inglés + glosario SOC | ⬜ |
 
 _Leyenda: ✅ hecho · 🔄 en curso · ⬜ pendiente_
 
