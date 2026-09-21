@@ -66,7 +66,7 @@ Cada repo: README, arquitectura, pasos de reproducción, consultas, screenshots,
 
 - **Turnos/condiciones**: muchos SOC L1 son 24/7 — noche, rotación, presencial, monotonía. Evaluar turnos, transporte y guardias desde el inicio (no idealizar el primer empleo).
 - **Edad (40+)**: no ocultarla ni hacerla el centro. El CV se plantea como transición técnica con experiencia previa: resolución de problemas, reparación, autonomía, disciplina.
-- **Inglés**: es el módulo que más se abandona. 2 h/semana fijas, aplicadas a SOC (resumen ejecutivo, documentación oficial, entrevistas), no un curso general.
+- **Inglés**: es el módulo que más se abandona. 2 h/semana fijas, aplicadas a SOC (resumen ejecutivo, documentación oficial, entrevistas), no un curso general. **Arreglo 2026-09-20:** esas 2 h se reparten en **15 min diarios + la sesión larga del sábado**, y el foco pasa de *leer* a **producir** (diagnóstico medido: 3/8 dominios CISSP producibles de memoria, aunque sí se reconocen al leerlos). La práctica oral va enganchada al repaso SRS (el reverso en inglés **se dice en voz alta** antes de graduar) para que no cueste minutos extra. Métrica de cierre por módulo: producir de memoria en inglés los términos técnicos del módulo (dominios CISSP, tipos de ataque) antes de darlo por cerrado. Subtítulos del curso **en inglés, nunca en español**.
 
 ## Salarios (usar con cautela)
 

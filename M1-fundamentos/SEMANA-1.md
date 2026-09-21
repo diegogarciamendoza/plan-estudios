@@ -3,6 +3,18 @@
 > Plan día a día (20 h). Leyenda: 🎓 teoría · 🧪 laboratorio · 📝 documentación · 🇬🇧 inglés
 > Al terminar la semana, todos los entregables deben estar en el repo `plan-estudios`. Regla del plan: **si no está en el repo, no está hecho.**
 
+## 🇬🇧 Bloque diario de inglés (15 min, TODOS los días, antes de cerrar)
+
+> Añadido 2026-09-20. El inglés deja de ser solo 2 h de sábado (práctica masiva) y pasa a **15 min diarios + la sesión del sábado**. Misma carga semanal, repartida: espaciado en vez de atracón.
+> Diagnóstico medido (2026-09-20): **reconozco** los términos técnicos pero no los **produzco** — línea base: 3/8 dominios CISSP producibles de memoria.
+
+- [ ] **5 términos técnicos EN VOZ ALTA** — al repasar el SRS, el reverso en inglés **se dice**, no se lee.
+- [ ] **1 frase propia en inglés** en la nota diaria (sección *Vocabulario* o *Aprendí*) usando uno de esos términos.
+- [ ] **Subtítulos del curso: en inglés, nunca en español** — con subtítulos en español el cerebro lee y deja de oír.
+- [ ] El término técnico se queda **en inglés** siempre (`Security Operations Center`, no "centro de operaciones"): así lo piden las vacantes.
+
+**Hecho cuando:** 5 términos dichos en voz alta + 1 frase escrita en la nota del día.
+
 ## Setup inicial (15 min, una sola vez)
 
 1. Activar **Coursera Plus** → abrir <https://www.coursera.org/professional-certificates/google-cybersecurity> y empezar el **Curso 1 (Foundations of Cybersecurity)**.
@@ -66,10 +78,10 @@ Estructura del vault: `diario/` (una nota por día), `M1-fundamentos/` (esta fas
 ## Sábado — Día 6 (3.5 h): inglés + cierre 🇬🇧2 + 🧪1.5
 
 - [ ] 🇬🇧 **Glosario SOC** (`glosario.md`): leer los 20 términos, agregar tu propia definición de 1 línea en inglés a cada uno (la del asistente es base; escríbela TÚ con tus palabras).
-- [ ] 🇬🇧 Leer en voz alta la intro de <https://attack.mitre.org> (sección "What is ATT&CK?") y anotar 5 palabras nuevas en `glosario.md`.
+- [ ] 🇬🇧 Leer en voz alta el **transcript de Coursera** de la semana — *shadowing*: sigues el audio del video leyendo. Los textos están en `C:\Users\Diego\coursera\output\foundations-of-cybersecurity\` (bajados 2026-09-20). Anotar 5 palabras nuevas en `glosario.md`. Alternativa: intro de <https://attack.mitre.org> ("What is ATT&CK?").
 - [ ] 🧪 Vuelta rápida al shell y Bandit: repetir un nivel que haya costado (refuerzo con memoria muscular).
 
-**Hecho cuando:** glosario con tus definiciones + 5 palabras nuevas anotadas.
+**Hecho cuando:** glosario con tus definiciones + 5 palabras nuevas anotadas **+ produces de memoria en inglés los 8 dominios CISSP** (línea base 2026-09-20: 3/8).
 
 ## Domingo — Día 7 (libre / flex 0–2 h)
 
@@ -79,7 +91,7 @@ Estructura del vault: `diario/` (una nota por día), `M1-fundamentos/` (esta fas
 
 ## Criterios de "semana 1 completada" (checklist final)
 
-- [ ] Coursera Plus activo y Curso 1 iniciado (primer módulo terminado).
+- [ ] Coursera Plus activo y Curso 1 iniciado (módulos 1 y 2 terminados).
 - [ ] Bandit niveles 0–5 completados (screenshot o nota con contraseñas de niveles en `M1-fundamentos/lab-bandit.md`).
 - [ ] Repo `plan-estudios` en GitHub con **4+ commits** y README con objetivo.
 - [ ] Glosario de 20 términos con tus definiciones en inglés.
@@ -88,10 +100,12 @@ Estructura del vault: `diario/` (una nota por día), `M1-fundamentos/` (esta fas
 
 ## Trampas típicas (evítalas)
 
-1. **El inglés es lo primero que se abandona** — hazlo los sábados antes que cualquier otra cosa.
+1. **El inglés es lo primero que se abandona** — por eso ahora tiene **bloque diario de 15 min** (no negociable) además del sábado: 15 min × 6 días se retienen; 2 h de golpe se olvidan antes del sábado siguiente.
 2. **No "mires" los comandos — típalos.** El shell entra por los dedos, no por los ojos.
 3. **No acumules commits de 5 días**: uno por día de estudio mínimo.
 4. Si un día no das el objetivo, mueve el bloque entero al domingo-flex, no lo trocees a medias.
+5. **No traduzcas los términos técnicos al español** al estudiarlos: se aprenden en inglés o no te sirven en la entrevista.
 
 ---
+
 Siguiente: `MES-1-DETALLADO.md` → Semana 2 (VLAN/NAT + Windows/Event Viewer + Packet Tracer).

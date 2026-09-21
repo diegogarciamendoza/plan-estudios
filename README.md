@@ -18,7 +18,7 @@
 
 | Fase | Periodo | Contenido | Certificación | Progreso |
 |---|---|---|---|---|
-| **M1** | Meses 1–2 | Google Cybersecurity + TryHackMe SOC | Google (Coursera) | `█░░░░` Curso 1/8 · mód 1/4 |
+| **M1** | Meses 1–2 | Google Cybersecurity + TryHackMe SOC | Google (Coursera) | `█░░░░` Curso 1/8 · mód 2/4 |
 | **M2** | Meses 7–8 | Security+ SY0-701 | **Security+** 🎯 | `░░░░░` 0% |
 | **M3** | Meses 9–12 | Especialización + CySA+ (opcional) | CySA+/eJPT | `░░░░░` 0% |
 
@@ -37,7 +37,7 @@ _`[x]` hecho · `[ ]` pendiente — marca al cerrar cada día de estudio; el lin
 | **01** | Shell: `pwd ls cd cat less man` | ✅ [nota](diario/2026-09-17.md) |
 | 02 | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | ✅ [nota](diario/2026-09-18.md) · DNS cerrado el 19 |
 | 03 | HTTP/TLS + Bandit 2–4 | ✅ [nota](diario/2026-09-19.md) · Bandit hasta la cuenta 8 · handshake explicado |
-| 04 | Git + glosario SOC | 🔄 [nota](diario/2026-09-20.md) |
+| 04 | Git + glosario SOC + Coursera mód 2 + repaso SRS | 🔄 [nota](diario/2026-09-20.md) |
 | 05 | Messer Network + README | ⬜ |
 | 06 | Inglés + glosario SOC | ⬜ |
 
