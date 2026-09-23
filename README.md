@@ -22,11 +22,13 @@
 | **M2** | Meses 7–8 | Security+ SY0-701 | **Security+** 🎯 | `░░░░░` 0% |
 | **M3** | Meses 9–12 | Especialización + CySA+ (opcional) | CySA+/eJPT | `░░░░░` 0% |
 
-📄 [GENERAL.md](GENERAL.md) — el plan completo (12 meses) · 📅 [MES-1-DETALLADO.md](M1-fundamentos/MES-1-DETALLADO.md) · 🧭 [SEMANA-1.md](M1-fundamentos/SEMANA-1.md)
+📄 [GENERAL.md](GENERAL.md) — el plan completo (12 meses) · 📅 [MES-1-DETALLADO.md](M1-fundamentos/MES-1-DETALLADO.md) · 🧭 [SEMANA-1.md](M1-fundamentos/SEMANA-1.md) · 🎛️ [MODO-CURSERA-INGLES.md](M1-fundamentos/MODO-CURSERA-INGLES.md)
 
 ## 📌 Día actual
 
-**▶️ Día 5** (siguiente: Messer Network + README) · Día 4 cerrado: [diario/2026-09-20.md](diario/2026-09-20.md)
+**▶️ Día 6** (Coursera Curso 1 · módulo 4 — el último — + inglés oral) · Día 5 cerrado: [diario/2026-09-21.md](diario/2026-09-21.md)
+
+> 🎛️ **Modo vigente desde el Día 5: Coursera + inglés** ([detalle](M1-fundamentos/MODO-CURSERA-INGLES.md)). Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan **pausados con condición de reactivación** según el curso.
 
 ## 📈 Progreso diario (en qué día voy)
 
@@ -38,8 +40,8 @@ _`[x]` hecho · `[ ]` pendiente — marca al cerrar cada día de estudio; el lin
 | 02 | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | ✅ [nota](diario/2026-09-18.md) · DNS cerrado el 19 |
 | 03 | HTTP/TLS + Bandit 2–4 | ✅ [nota](diario/2026-09-19.md) · Bandit hasta la cuenta 8 · handshake explicado |
 | 04 | Git + glosario SOC + Coursera mód 2–3 + repaso SRS | ✅ [nota](diario/2026-09-20.md) · challenges 85% y 95% verificados · arrastra: glosario 2/20 |
-| 05 | Messer Network + README | ⬜ |
-| 06 | Inglés + glosario SOC | ⬜ |
+| 05 | Medición de inglés (EFSET) + reenfoque del plan | ✅ [nota](diario/2026-09-21.md) · EFSET **C1 66** verificado (W 59 · S 48 = producción) · modo **Coursera + inglés** · el curso no avanzó: README y baseline → domingo-flex |
+| 06 | Coursera Curso 1 · **módulo 4** + inglés oral | 🔄 [nota](diario/2026-09-22.md) · plan: módulo 4 completo + *module challenge* + 4/3/2 grabado |
 
 _Leyenda: ✅ hecho · 🔄 en curso · ⬜ pendiente_
 
@@ -83,4 +85,4 @@ Teclas: `Ctrl+O` abrir rápido · `Ctrl+Shift+F` buscar en todo · `Ctrl+E` leer
 - **"Modified" fantasma** (LF↔CRLF, diff vacío): costumbre de Obsidian en Windows; descartar con `git checkout -- <archivo>`.
 
 ---
-_Actualizado: Día 4 · 2026-09-20 · Semana 1_
+_Actualizado: Día 6 · 2026-09-22 · Semana 1_
