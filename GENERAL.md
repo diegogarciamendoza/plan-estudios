@@ -6,9 +6,15 @@
 ## Perfil
 
 - Edad 40+, México. Disponibilidad: **20+ h/semana**.
-- Inglés: **técnico intermedio** (módulo aplicado a SOC, no curso general).
+- Inglés: **técnico intermedio** (módulo aplicado a SOC, no curso general). **Medido 2026-09-21** con [EFSET 4-skills](https://cert.efset.org/en/uMnF3B): **C1 global (66/100)** — Reading 74 · Listening 81 · Writing 59 (B2) · Speaking 48 (B1) → el cuello de botella es la **producción**, no la comprensión.
 - Presupuesto mensual: **$300–1,000 MXN** + **Coursera Plus YA activo (patrocinado por un familiar)**.
 - Base actual: programación intermedia · Linux básico · reparación de PCs · redes básicas · electrónica incompleta · power user.
+
+## Modo actual (desde 2026-09-21)
+
+> **Dos frentes: Coursera + inglés.** Todo lo demás queda **pausado con condición de reactivación**, no abandonado — detalle en [[MODO-CURSERA-INGLES]].
+> Motivo: el certificado Google Cybersecurity **ya cubre Linux, SQL, Python, redes y detección**; practicarlo en paralelo duplicaba esfuerzo y dispersaba el foco (riesgo nº 1 del plan).
+> Inglés: sube de 15 a **25 min/día** + la sesión del sábado, ahora con **pronunciación** (5 min diarios). Prioridad si el día no alcanza: **Coursera ≥ inglés ≥ lo demás**.
 
 ## Objetivo (12 meses)
 
@@ -67,6 +73,7 @@ Cada repo: README, arquitectura, pasos de reproducción, consultas, screenshots,
 - **Turnos/condiciones**: muchos SOC L1 son 24/7 — noche, rotación, presencial, monotonía. Evaluar turnos, transporte y guardias desde el inicio (no idealizar el primer empleo).
 - **Edad (40+)**: no ocultarla ni hacerla el centro. El CV se plantea como transición técnica con experiencia previa: resolución de problemas, reparación, autonomía, disciplina.
 - **Inglés**: es el módulo que más se abandona. 2 h/semana fijas, aplicadas a SOC (resumen ejecutivo, documentación oficial, entrevistas), no un curso general. **Arreglo 2026-09-20:** esas 2 h se reparten en **15 min diarios + la sesión larga del sábado**, y el foco pasa de *leer* a **producir** (diagnóstico medido: 3/8 dominios CISSP producibles de memoria, aunque sí se reconocen al leerlos). La práctica oral va enganchada al repaso SRS (el reverso en inglés **se dice en voz alta** antes de graduar) para que no cueste minutos extra. Métrica de cierre por módulo: producir de memoria en inglés los términos técnicos del módulo (dominios CISSP, tipos de ataque) antes de darlo por cerrado. Subtítulos del curso **en inglés, nunca en español**.
+- **Inglés — medición externa y arreglo 2026-09-21 (EFSET 4-skills)**: [certificado](https://cert.efset.org/en/uMnF3B) → **C1, 66/100** · Reading **74** (C2) · Listening **81** (C2) · **Writing 59 (B2)** · **Speaking 48 (B1)**. Lectura: no es falta de inglés, es **producción en tiempo real** (oír 81 ↔ hablar 48 = 33 puntos; escribir rinde más que hablar porque da tiempo a recuperar y corregir). Consecuencias: (1) los 15 min diarios pasan a **≥70% producción** en rotación escritura/oral; (2) el sábado produce **1 artefacto escrito en inglés** = a la vez entregable del portafolio (informe de incidente, executive summary, ticket de phishing); (3) leer y escuchar **no tienen tiempo asignado** (ya C2, siguen como insumo del curso); (4) feedback del asistente con rúbrica + **bitácora de errores** → tarjetas SRS solo de errores recurrentes; (5) retest EFSET 4-skills a los ~3 meses (gratis, <https://www.efset.org/4-skill/>).
 
 ## Salarios (usar con cautela)
 

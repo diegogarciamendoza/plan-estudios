@@ -1,19 +1,26 @@
 # SEMANA 1 — Arranque: cert + redes base + shell + Git
 
+> ⚠️ **Modo vigente desde 2026-09-21 (ver [[MODO-CURSERA-INGLES]]):** el plan se reduce a **Coursera + inglés**; los labs de esta semana (Bandit, bloque Git, Packet Tracer, Messer) quedan **pausados** y se reactivan cuando el curso llegue a sus módulos. Lo de abajo se conserva como referencia.
+
 > Plan día a día (20 h). Leyenda: 🎓 teoría · 🧪 laboratorio · 📝 documentación · 🇬🇧 inglés
 > Al terminar la semana, todos los entregables deben estar en el repo `plan-estudios`. Regla del plan: **si no está en el repo, no está hecho.**
 
-## 🇬🇧 Bloque diario de inglés (15 min, TODOS los días, antes de cerrar)
+## 🇬🇧 Bloque diario de inglés (25 min, TODOS los días, antes de cerrar)
 
-> Añadido 2026-09-20. El inglés deja de ser solo 2 h de sábado (práctica masiva) y pasa a **15 min diarios + la sesión del sábado**. Misma carga semanal, repartida: espaciado en vez de atracón.
-> Diagnóstico medido (2026-09-20): **reconozco** los términos técnicos pero no los **produzco** — línea base: 3/8 dominios CISSP producibles de memoria.
+> Actualizado **2026-09-21** (v3) con la primera medición externa ([EFSET 4-skills](https://cert.efset.org/en/uMnF3B): **C1 66** · R 74 · L 81 · **W 59 B2** · **S 48 B1**) → el cuello de botella es la **producción**, y sube de 15 a **25 min/día**. Todo es producción: leer/escuchar ya están en C2 y el curso los da igual.
 
-- [ ] **5 términos técnicos EN VOZ ALTA** — al repasar el SRS, el reverso en inglés **se dice**, no se lee.
-- [ ] **1 frase propia en inglés** en la nota diaria (sección *Vocabulario* o *Aprendí*) usando uno de esos términos.
-- [ ] **Subtítulos del curso: en inglés, nunca en español** — con subtítulos en español el cerebro lee y deja de oír.
-- [ ] El término técnico se queda **en inglés** siempre (`Security Operations Center`, no "centro de operaciones"): así lo piden las vacantes.
+| Bloque | Qué hago |
+|---|---|
+| **Siempre (5 min)** | **SRS producción**: frente = definición en inglés → digo el término **en voz alta Y lo escribo**, + 1 frase mía |
+| **Lun · Mié · Vie (20 min)** | 10 min **micro-escritura** (1 párrafo de 60–80 palabras: párrafo de informe, executive summary, ticket) · 5 min **leer en voz alta lo que escribí y grabarlo** · 5 min **pronunciación**: 5 líneas del transcript de Coursera con el audio original, y marcar las palabras que se me traban |
+| **Mar · Jue (20 min)** | 10 min **oral grabado**: técnica **4/3/2** (lo mismo en 4, luego 3, luego 2 min) o resumen hablado de la lección · 5 min **transcribir a mano 3 frases** de mi grabación y corregirlas · 5 min **pronunciación**: las palabras que se me traban, repetidas con modelo (TTS/YouTube/Forvo) |
+| **Sáb (sesión larga, 2 h)** | 30 min **escritura larga** (borrador → feedback → versión final) · 20 min shadowing del transcript · 20 min **conversación hablada**: voz con el asistente (con evaluación) **+ Gemini Live** (para soltarme a hablar) · 20 min **bitácora de errores** + tarjetas SRS · 30 min repaso/entregable |
 
-**Hecho cuando:** 5 términos dichos en voz alta + 1 frase escrita en la nota del día.
+- [ ] Los términos técnicos se quedan **en inglés** siempre (`Security Operations Center`, no "centro de operaciones"): así lo piden las vacantes.
+- [ ] Subtítulos del curso **en inglés, nunca en español** — con subtítulos en español el cerebro lee y deja de oír.
+- [ ] **Feedback**: al pegarle al asistente el párrafo o la transcripción, devuelve *errores por tipo + 2 reescrituras + tarjetas*. La métrica del día no es "repasé tarjetas", es **"produje X términos de memoria"**.
+
+**Hecho cuando:** 5 términos dichos **y escritos** de memoria + 1 párrafo propio en inglés (o 1 grabación de 2 min) en la nota del día.
 
 ## Setup inicial (15 min, una sola vez)
 
