@@ -12,17 +12,19 @@
 ## Base del mes: Google Cybersecurity Certificate (Coursera Plus)
 
 - **URL**: <https://www.coursera.org/professional-certificates/google-cybersecurity>
-- **Cubre**: Linux, Python, SQL, SIEM, logs e incident response. **~170 h en total** (8 cursos).
+- **Cubre**: Linux, Python, SQL, SIEM, logs e incident response. **~170 h en total** (9 cursos — ver el mapa).
 - **Mes 1 = la primera parte** (el certificado completo abarca meses 1–2). No intentes terminarlo este mes; el objetivo es la base.
 - **Ritmo**: ~8 h/semana de teoría salen del certificado; los laboratorios paralelos fijan lo que ves ahí.
 
-### Mapa del certificado (verificado 2026-09-19 en coursera.org)
+### Mapa del certificado (verificado 2026-09-19, **re-verificado 2026-09-22** en coursera.org)
 
-**8 cursos** (~170 h). El avance se cuenta así: **cursos completados / 8** y, dentro de cada curso, sus **módulos** (el Curso 1 tiene 4). La credencial de Google se emite al completar los 8 cursos.
+**9 cursos** (~170 h de contenido técnico + el módulo de carrera). El avance se cuenta así: **cursos completados / 9** y, dentro de cada curso, sus **módulos** (el Curso 1 tiene 4). La credencial de Google se emite al completar los 9 cursos.
+
+> ⚠️ **Cambio 2026-09-22:** el programa pasó de 8 a **9 cursos**. La plataforma ya muestra `Course 1 of 9` y el HTML oficial de Coursera lista el 9.º: *Accelerate Your Job Search with AI* (búsqueda de empleo, no técnico). Los 8 títulos anteriores no cambiaron.
 
 | # | Curso | Estado |
 |---|---|---|
-| 1 | Foundations of Cybersecurity *(4 módulos)* | 🔄 módulo 1 hecho — 2026-09-17 |
+| 1 | Foundations of Cybersecurity *(4 módulos)* | ✅ **completado 2026-09-22** — `Grade: 90.63%` · *Module 4 challenge* **94.44%** · certificado verificado |
 | 2 | Play It Safe: Manage Security Risks | ⬜ |
 | 3 | Connect and Protect: Networks and Network Security | ⬜ |
 | 4 | Tools of the Trade: Linux and SQL | ⬜ |
@@ -30,6 +32,7 @@
 | 6 | Sound the Alarm: Detection and Response | ⬜ |
 | 7 | Automate Cybersecurity Tasks with Python | ⬜ |
 | 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜ |
+| 9 | Accelerate Your Job Search with AI *(módulo de carrera, añadido 2026)* | ⬜ |
 
 ## Recursos del mes (gratis o ya pagados)
 

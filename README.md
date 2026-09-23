@@ -18,7 +18,7 @@
 
 | Fase | Periodo | Contenido | Certificación | Progreso |
 |---|---|---|---|---|
-| **M1** | Meses 1–2 | Google Cybersecurity + TryHackMe SOC | Google (Coursera) | `█░░░░` Curso 1/8 · mód 3/4 |
+| **M1** | Meses 1–2 | Google Cybersecurity + TryHackMe SOC | Google (Coursera) | `█░░░░` **Curso 1/9 ✅** · 4/4 módulos · 90.63% |
 | **M2** | Meses 7–8 | Security+ SY0-701 | **Security+** 🎯 | `░░░░░` 0% |
 | **M3** | Meses 9–12 | Especialización + CySA+ (opcional) | CySA+/eJPT | `░░░░░` 0% |
 
@@ -26,7 +26,7 @@
 
 ## 📌 Día actual
 
-**▶️ Día 6** (Coursera Curso 1 · módulo 4 — el último — + inglés oral) · Día 5 cerrado: [diario/2026-09-21.md](diario/2026-09-21.md)
+**▶️ Día 6** (en curso: **Curso 1 ✅ completo**; falta el bloque de inglés oral) · Día 5 cerrado: [diario/2026-09-21.md](diario/2026-09-21.md) · **siguiente: Curso 2 *Play It Safe: Manage Security Risks***
 
 > 🎛️ **Modo vigente desde el Día 5: Coursera + inglés** ([detalle](M1-fundamentos/MODO-CURSERA-INGLES.md)). Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan **pausados con condición de reactivación** según el curso.
 
@@ -41,7 +41,7 @@ _`[x]` hecho · `[ ]` pendiente — marca al cerrar cada día de estudio; el lin
 | 03 | HTTP/TLS + Bandit 2–4 | ✅ [nota](diario/2026-09-19.md) · Bandit hasta la cuenta 8 · handshake explicado |
 | 04 | Git + glosario SOC + Coursera mód 2–3 + repaso SRS | ✅ [nota](diario/2026-09-20.md) · challenges 85% y 95% verificados · arrastra: glosario 2/20 |
 | 05 | Medición de inglés (EFSET) + reenfoque del plan | ✅ [nota](diario/2026-09-21.md) · EFSET **C1 66** verificado (W 59 · S 48 = producción) · modo **Coursera + inglés** · el curso no avanzó: README y baseline → domingo-flex |
-| 06 | Coursera Curso 1 · **módulo 4** + inglés oral | 🔄 [nota](diario/2026-09-22.md) · plan: módulo 4 completo + *module challenge* + 4/3/2 grabado |
+| 06 | Coursera Curso 1 · **módulo 4** + inglés oral | 🔄 [nota](diario/2026-09-22.md) · ✅ **Curso 1 COMPLETO** (90.63% · *Module 4 challenge* **94.44%**, captura verificada) + certificado en el repo · **falta el bloque de inglés** |
 
 _Leyenda: ✅ hecho · 🔄 en curso · ⬜ pendiente_
 
@@ -85,4 +85,4 @@ Teclas: `Ctrl+O` abrir rápido · `Ctrl+Shift+F` buscar en todo · `Ctrl+E` leer
 - **"Modified" fantasma** (LF↔CRLF, diff vacío): costumbre de Obsidian en Windows; descartar con `git checkout -- <archivo>`.
 
 ---
-_Actualizado: Día 6 · 2026-09-22 · Semana 1_
+_Actualizado: Día 6 · 2026-09-22 · Semana 1 · ⚠️ el certificado pasó de **8 a 9 cursos** (verificado en coursera.org)_

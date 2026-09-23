@@ -14,7 +14,7 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🎓 **Certificado Google Cybersecurity** (8 cursos) — Curso 1 *Foundations of Cybersecurity*: **módulos 1, 2 y 3 de 4 ✅** (*Module 2 challenge* **85%** · *Module 3 challenge* **95%**, capturas verificadas el 2026-09-20) → siguiente: **módulo 4**. Mapa de cursos en [[MES-1-DETALLADO]]
+- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — Curso 1 ✅ completo → siguiente: **Curso 2 *Play It Safe: Manage Security Risks***. Mapa de cursos en [[MES-1-DETALLADO]]
 
 ## ⏸️ Pausado (reactiva con los cursos 3/4/6/7 — ver [[MODO-CURSERA-INGLES]])
 
@@ -26,6 +26,7 @@ kanban-plugin: board
 
 ## Hecho
 
+- [x] 🎓 Coursera: **Curso 1 *Foundations of Cybersecurity* COMPLETO (4/4 módulos)** — 2026-09-22 *(evidencia: ✅ **verificada con visión** · `Course 1 of 9 · Completed: September 22, 2026 · Grade: 90.63%` · *Module 4 challenge* `Submitted · 94.44% · Graded` · certificado `attachments/2026-09-22 certificate.png` + `certificates/Coursera UM5RDPDAA4ZO.pdf`, [[2026-09-22]])*
 - [x] Repo + vault de Obsidian con auto-sync
 - [x] 🎓 Coursera: Curso 1 "Foundations of Cybersecurity" — módulo 1 terminado
 - [x] 🎓 Coursera: Curso 1 — **módulo 2 *The evolution of cybersecurity*** (8 dominios CISSP, ataques, malware) — 2026-09-20 *(evidencia: ✅ **captura verificada con visión** · Module 2 challenge **85%**, [[2026-09-20]])*
