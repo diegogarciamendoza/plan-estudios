@@ -67,7 +67,7 @@ enlaces:
 
 ## Inglés — producción del módulo
 
-Términos del glosario del módulo 2 (tiene 18; estos 6 son los que se producen de memoria, dichos y escritos).
+Términos del glosario del módulo 2 (tiene **19**; estos 6 son los que se producen de memoria, dichos y escritos).
 
 | # | Término (EN) | Lo dije en voz alta | Lo escribí | Una frase mía usándolo |
 |---|---|---|---|---|

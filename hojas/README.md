@@ -20,7 +20,7 @@ Decisión tomada el **2026-09-24** con estos datos:
 
 ## Índice
 
-### Curso 1 — *Foundations of Cybersecurity* ✅ completado 2026-09-22 (`Grade: 90.63%`) · **4 módulos**
+### Curso 1 — *Foundations of Cybersecurity* ✅ completado 2026-09-22 (`Grade: 90.63%`) · **4 módulos** · **58 términos únicos** de glosario (11 + 19 + 17 + 12 = 59 entradas; `SPII` se repite entre M1 y M3)
 
 | Módulo | Título | Hoja | Estado |
 |---|---|---|---|
@@ -59,8 +59,8 @@ Decisión tomada el **2026-09-24** con estos datos:
 | <https://owasp.org/projects/top-ten> | ✅ **vigente** — la versión actual es **OWASP Top 10:2025** (`A01 Broken Access Control` … `A10 Mishandling of Exceptional Conditions`; verificado en `top10.owasp.org/2025`) | **Curso 2 · M02**, donde aparece la lección *OWASP security principles*. ⚠️ Ojo: **no es la misma lista** — la lección cubre los *principios*, esta URL son los **10 riesgos**. La que más te va a tocar en un SOC es **A09 Security Logging and Alerting Failures**. |
 | <https://www.cisa.gov/resources-tools/resources/no-cost-cybersecurity-services-and-tools> | ✅ **vigente** (HTTP 200, 2026-09-24). Contiene: *Cyber Hygiene Services* (escaneo de sistemas expuestos), *CPG Assessment*, catálogo **KEV** y una base de herramientas gratis filtrable por nivel (Foundational / Intermediate / Advanced) y por los 38 CPG IDs | **Curso 8** (empleo) y como lista de herramientas gratis para el lab del mes 3. ⚠️ Los *servicios* son para organizaciones de **EE.UU.**; la base de **herramientas** aplica a cualquiera. |
 | Threat Horizons **sept-2022** (PDF) | ⚠️ **desactualizado**: son datos de Q2-2022 y ya hay ediciones mucho más nuevas (**H2 2025** = 12.ª edición, y **H1 2026**). Sirve como **ejemplo del formato** de un informe de threat intel, no como dato vigente. | **Curso 5/6** (amenazas / detección). Si se cita una cifra, citar la edición vigente: <https://cloud.google.com/security/report>. El hallazgo literal de ese número: en Q2-2022 *"weak and default-password issues … factoring in over half of identified incidents"* → entonces **más de la mitad** de los incidentes empezaron por credenciales débiles o por defecto (SSH, WordPress, RDP) y **65%** terminaron en criptominería. |
-| Docs de Google `1QrlsTDX…` (`/template/preview`) | 🕓 **no accesible todavía**: HTTP **404** leyéndolo sin sesión (2026-09-24). **Diego lo exporta** (Archivo → Descargar) y se integra aquí | Cuando llegue el export se dice qué cubre y a qué módulo aplica |
-| Docs de Google `1bBtBHYr…` (`/template/preview`) | 🕓 **no accesible todavía**: HTTP **401** (pide inicio de sesión, es privado). **Diego lo exporta** y se integra | ídem |
+| Docs de Google `1QrlsTDX…` (`/template/preview`) | 🚫 **descartado** (2026-09-24): HTTP **404** sin sesión y Diego no lo tiene a mano — si reaparece, se integra | — |
+| Docs de Google `1bBtBHYr…` → **identificado: Glosario del Curso 1** (plantilla de Google Docs del propio certificado; la lección *07_Course 1 glossary* del export de momo **es el enlace a este Doc**) | ⚠️ **material del curso → no entra al vault**. Contado y cotejado 2026-09-24: **58 términos**, **56 en común** con los glosarios de módulo (11+19+17+12 = 59 entradas, `SPII` repetida). Aporta `Open Web Application Security Project (OWASP)` y `Adversarial artificial intelligence` (sin `(AI)`); **no** trae `CISSP` (que sí está en el glosario del módulo 2) | Uso: **checklist contable del Curso 1** (58 términos) para el repaso final del curso y para Security+. La fuente autoritativa **por módulo** son las lecciones *Glossary terms from module N* |
 
 ### Transversales (ya en el plan)
 

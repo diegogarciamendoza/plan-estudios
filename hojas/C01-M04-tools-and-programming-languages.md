@@ -58,6 +58,8 @@ enlaces:
 
 ## Inglés — producción del módulo
 
+Términos del glosario del módulo 4 (tiene **12**; estos 3 son los que se producen de memoria, dichos y escritos).
+
 | # | Término (EN) | Lo dije en voz alta | Lo escribí | Una frase mía usándolo |
 |---|---|---|---|---|
 | 1 | log | ⚠️ el STT oyó **"lock"** (la `-g` final se ensordece) | ✅ `log` | *"A log is a record of events within an organization's systems."* |
