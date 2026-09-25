@@ -22,7 +22,7 @@
 | **M2** | Meses 7–8 | Security+ SY0-701 | **Security+** 🎯 | `░░░░░` 0% |
 | **M3** | Meses 9–12 | Especialización + CySA+ (opcional) | CySA+/eJPT | `░░░░░` 0% |
 
-📄 [GENERAL.md](GENERAL.md) — el plan completo (12 meses) · 📅 [MES-1-DETALLADO.md](M1-fundamentos/MES-1-DETALLADO.md) · 🧭 [SEMANA-1.md](M1-fundamentos/SEMANA-1.md) · 🎛️ [MODO-CURSERA-INGLES.md](M1-fundamentos/MODO-CURSERA-INGLES.md)
+📄 [GENERAL.md](GENERAL.md) — el plan completo (12 meses) · 📅 [MES-1-DETALLADO.md](M1-fundamentos/MES-1-DETALLADO.md) · 🧭 [SEMANA-1.md](M1-fundamentos/SEMANA-1.md) · 🎛️ [MODO-CURSERA-INGLES.md](M1-fundamentos/MODO-CURSERA-INGLES.md) · 🃏 [hojas/](hojas/README.md) — hojas de recuperación por módulo
 
 ## 📌 Día actual
 
@@ -54,11 +54,12 @@ plan-estudios/
 ├── glosario.md          ← inglés: términos SOC (crece todo el año)
 ├── vacantes-*.md        ← mercado laboral (referencia)
 ├── diario/              ← 1 nota por día, TODO el día: YYYY-MM-DD.md
+├── hojas/               ← 1 hoja de recuperación por MÓDULO de Coursera (CX-MXX-<slug>)
 ├── attachments/         ← imágenes/capturas (Obsidian pega aquí: `.obsidian/app.json`)
 ├── M1-fundamentos/      ← solo lo durable: SEMANA-N, MES-1, tablero, entregables grandes
 ├── M2-security-plus/    ← meses 7-8
 ├── M3-especializacion/  ← meses 9-12
-└── plantillas/          ← diaria.md (única plantilla por defecto)
+└── plantillas/          ← diaria.md + hoja-modulo.md
 ```
 
 **Regla (KISS):** lo de cada día va en `diario/YYYY-MM-DD.md`, con todo junto (aprendí + práctica + duda). Solo sube al módulo lo que de verdad va a **crecer o reutilizarse** (glosario, scripts, entregables grandes). Si dudas, va al diario — nada de decidir tipos por cada nota.
@@ -67,9 +68,10 @@ plan-estudios/
 
 1. **Nota del día:** `Ctrl+P` → "Periodic Notes: Open daily note" (se crea en `diario/` con la plantilla).
 2. **Todo el día ahí**: aprendí + comandos + práctica + duda. 5 min al cerrar el bloque.
-3. **Tablero semanal** ([tablero.md](M1-fundamentos/tablero.md)): muevo lo hecho a "Hecho" el domingo (o yo lo actualizo).
-4. **README**: marco `[x]` en la tabla diaria y enlazo la nota del día.
-5. **Sync:** automático cada 30 min con Obsidian abierto (`Ctrl+P` → "Obsidian Git: Commit-and-sync" para forzar; si falla, ver "cómo resolver pull" abajo).
+3. **Hoja del módulo** ([hojas/](hojas/README.md)): se abre cuando **empieza** un módulo de Coursera y se cierra el día que apruebas su *module challenge*. Se **responde** (respuestas en callout plegado), no se lee.
+4. **Tablero semanal** ([tablero.md](M1-fundamentos/tablero.md)): muevo lo hecho a "Hecho" el domingo (o yo lo actualizo).
+5. **README**: marco `[x]` en la tabla diaria y enlazo la nota del día.
+6. **Sync:** automático cada 30 min con Obsidian abierto (`Ctrl+P` → "Obsidian Git: Commit-and-sync" para forzar; si falla, ver "cómo resolver pull" abajo).
 
 Teclas: `Ctrl+O` abrir rápido · `Ctrl+Shift+F` buscar en todo · `Ctrl+E` leer/editar.
 

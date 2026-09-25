@@ -14,7 +14,7 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — Curso 1 ✅ completo → siguiente: **Curso 2 *Play It Safe: Manage Security Risks***. Mapa de cursos en [[MES-1-DETALLADO]]
+- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — Curso 1 ✅ completo → siguiente: **Curso 2 *Play It Safe: Manage Security Risks***. Mapa de cursos en [[MES-1-DETALLADO]] · **hoja de recuperación por módulo** abierta en [[hojas/README|hojas/]] (C2-M01 lista para llenar)
 
 ## ⏸️ Pausado (reactiva con los cursos 3/4/6/7 — ver [[MODO-CURSERA-INGLES]])
 
@@ -26,6 +26,7 @@ kanban-plugin: board
 
 ## Hecho
 
+- [x] 🃏 **Hojas de recuperación por módulo** (decisión: por módulo, no por curso) — plantilla `plantillas/hoja-modulo.md` + índice y fuentes verificadas en `hojas/README.md` + ejemplo lleno (C1-M04) + C2-M01 lista — 2026-09-24
 - [x] 🎓 Coursera: **Curso 1 *Foundations of Cybersecurity* COMPLETO (4/4 módulos)** — 2026-09-22 *(evidencia: ✅ **verificada con visión** · `Course 1 of 9 · Completed: September 22, 2026 · Grade: 90.63%` · *Module 4 challenge* `Submitted · 94.44% · Graded` · certificado `attachments/2026-09-22 certificate.png` + `certificates/Coursera UM5RDPDAA4ZO.pdf`, [[2026-09-22]])*
 - [x] Repo + vault de Obsidian con auto-sync
 - [x] 🎓 Coursera: Curso 1 "Foundations of Cybersecurity" — módulo 1 terminado
