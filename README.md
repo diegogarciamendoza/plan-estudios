@@ -18,7 +18,7 @@
 
 | Fase | Periodo | Contenido | Certificación | Progreso |
 |---|---|---|---|---|
-| **M1** | Meses 1–2 | Google Cybersecurity + TryHackMe SOC | Google (Coursera) | `█░░░░` **Curso 1/9 ✅** · 4/4 módulos · 90.63% |
+| **M1** | Meses 1–2 | Google Cybersecurity + TryHackMe SOC | Google (Coursera) | `█░░░░` **Curso 1/9 ✅** · 4/4 módulos · 90.63% · **Curso 2: 1/4 módulos ✅ 100%** |
 | **M2** | Meses 7–8 | Security+ SY0-701 | **Security+** 🎯 | `░░░░░` 0% |
 | **M3** | Meses 9–12 | Especialización + CySA+ (opcional) | CySA+/eJPT | `░░░░░` 0% |
 
@@ -26,9 +26,9 @@
 
 ## 📌 Día actual
 
-**▶️ Día 6** (en curso: **Curso 1 ✅ completo**; falta el bloque de inglés oral) · Día 5 cerrado: [diario/2026-09-21.md](diario/2026-09-21.md) · **siguiente: Curso 2 *Play It Safe: Manage Security Risks***
+**▶️ Día 7** (2026-09-24, en curso: **Curso 2 *Play It Safe* · módulo 1 ✅ `Passed · 100%`**; falta el bloque de inglés oral) · Día 6 cerrado: [diario/2026-09-22.md](diario/2026-09-22.md) · **siguiente: módulo 2 *Security frameworks and controls*** (vence **Oct 2**, junto a la *Portfolio Activity: Conduct a security audit*)
 
-> 🗓️ **2026-09-24 (jueves) — sesión de diseño**: sistema de **hojas de recuperación por módulo** ([hojas/](hojas/README.md) · [nota del día](diario/2026-09-24.md)). El bloque de Coursera + inglés de hoy sigue abierto. El **09-23 no tiene nota**.
+> 🗓️ **2026-09-24 (jueves)**: sesión de diseño (**hojas de recuperación por módulo**, [hojas/](hojas/README.md)) **+ Curso 2 · módulo 1** cerrado con `Module 1 challenge` `Passed · Grade: 100%` (captura verificada) · [nota del día](diario/2026-09-24.md) abierta: falta el bloque de inglés y **producir los 8 dominios CISSP de memoria**. El **09-23 no tiene nota**.
 
 > 🎛️ **Modo vigente desde el Día 5: Coursera + inglés** ([detalle](M1-fundamentos/MODO-CURSERA-INGLES.md)). Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan **pausados con condición de reactivación** según el curso.
 
@@ -44,6 +44,7 @@ _`[x]` hecho · `[ ]` pendiente — marca al cerrar cada día de estudio; el lin
 | 04 | Git + glosario SOC + Coursera mód 2–3 + repaso SRS | ✅ [nota](diario/2026-09-20.md) · challenges 85% y 95% verificados · arrastra: glosario 2/20 |
 | 05 | Medición de inglés (EFSET) + reenfoque del plan | ✅ [nota](diario/2026-09-21.md) · EFSET **C1 66** verificado (W 59 · S 48 = producción) · modo **Coursera + inglés** · el curso no avanzó: README y baseline → domingo-flex |
 | 06 | Coursera Curso 1 · **módulo 4** + inglés oral | 🔄 [nota](diario/2026-09-22.md) · ✅ **Curso 1 COMPLETO** (90.63% · *Module 4 challenge* **94.44%**, captura verificada) + certificado en el repo · **falta el bloque de inglés** |
+| 07 | Curso 2 · **módulo 1 *Security domains*** + diseño de las hojas de recuperación | 🔄 [nota](diario/2026-09-24.md) · ✅ **mód 1/4** (*Module 1 challenge* `Passed · **100%**`, captura verificada) · falta el bloque de inglés y los 8 dominios CISSP de memoria · *(el 09-23 quedó sin nota)* |
 
 _Leyenda: ✅ hecho · 🔄 en curso · ⬜ pendiente_
 

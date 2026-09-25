@@ -31,9 +31,11 @@ Decisión tomada el **2026-09-24** con estos datos:
 
 ### Curso 2 — *Play It Safe: Manage Security Risks* · **4 módulos** *(títulos y duraciones verificados 2026-09-24 en la página del curso)*
 
+> ⏰ **Vence:** `Module 1 challenge` Sep 28 · `Module 2 challenge` + *Portfolio Activity: Conduct a security audit* **Oct 2** (5% del curso) · `M3 challenge` Oct 7 · `M4 challenge` Oct 9.
+
 | Módulo | Título | Duración | Hoja | Estado |
 |---|---|---|---|---|
-| M01 | Security domains | 2h18m | [[C02-M01-security-domains]] | 🖊️ lista para llenar |
+| M01 | Security domains | 2h18m | [[C02-M01-security-domains]] | ✅ **100%** (2026-09-24) |
 | M02 | Security frameworks and controls *(aquí entra OWASP)* | 3h07m | | ⬜ |
 | M03 | Introduction to cybersecurity tools *(SIEM, dashboards)* | 1h40m | | ⬜ |
 | M04 | Use playbooks to respond to incidents | 1h55m | | ⬜ |

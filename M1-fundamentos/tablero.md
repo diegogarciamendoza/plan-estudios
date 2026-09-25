@@ -14,7 +14,7 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — Curso 1 ✅ completo → siguiente: **Curso 2 *Play It Safe: Manage Security Risks***. Mapa de cursos en [[MES-1-DETALLADO]] · **hoja de recuperación por módulo** abierta en [[hojas/README|hojas/]] (C2-M01 lista para llenar)
+- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — Curso 1 ✅ completo · **Curso 2: mód 1/4 ✅ `Passed · 100%`** (2026-09-24, captura verificada) → siguiente **mód 2 *Security frameworks and controls*** (vence Oct 2 + *Portfolio Activity*) · Mapa en [[MES-1-DETALLADO]] · **hojas de recuperación por módulo** en [[hojas/README|hojas/]]
 
 ## ⏸️ Pausado (reactiva con los cursos 3/4/6/7 — ver [[MODO-CURSERA-INGLES]])
 

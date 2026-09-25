@@ -2,9 +2,9 @@
 tipo: hoja-modulo
 curso: 2
 modulo: 1
-estado: abierta
-abierta:
-cerrada:
+estado: cerrada
+abierta: 2026-09-24
+cerrada: 2026-09-24
 tags:
   - hoja-modulo
   - coursera
@@ -27,6 +27,9 @@ enlaces:
 3. **Se llena mientras estudias**, no al final de golpe.
 
 **Hecho cuando:** *module challenge* **≥80%** + mapa completo (todas las lecciones) + **los 8 dominios CISSP producidos de memoria en inglés** (voz *y* escrito) + fuentes marcadas.
+
+> ✅ **Cerrado el 2026-09-24**: *Module 1 challenge* **`Passed · Grade: 100%`** (captura `attachments/2026-09-24 curso2 modulo1.png`, verificada con visión, [[2026-09-24]]).
+> ⚠️ **Falta el criterio de producción de esta hoja**: los 8 dominios CISSP de memoria (*"necesito aprendérmelos de memoria y en orden"*, tus palabras) y las preguntas 3–6. El módulo lo cerró Coursera; la hoja la cierra la producción.
 
 > 📌 Métrica que ya está en el tablero: línea base del **2026-09-20 = 3/8** dominios producibles de memoria. El módulo 1 de este curso es la ocasión de subirla a **8/8**.
 
