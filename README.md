@@ -28,6 +28,8 @@
 
 **▶️ Día 6** (en curso: **Curso 1 ✅ completo**; falta el bloque de inglés oral) · Día 5 cerrado: [diario/2026-09-21.md](diario/2026-09-21.md) · **siguiente: Curso 2 *Play It Safe: Manage Security Risks***
 
+> 🗓️ **2026-09-24 (jueves) — sesión de diseño**: sistema de **hojas de recuperación por módulo** ([hojas/](hojas/README.md) · [nota del día](diario/2026-09-24.md)). El bloque de Coursera + inglés de hoy sigue abierto. El **09-23 no tiene nota**.
+
 > 🎛️ **Modo vigente desde el Día 5: Coursera + inglés** ([detalle](M1-fundamentos/MODO-CURSERA-INGLES.md)). Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan **pausados con condición de reactivación** según el curso.
 
 ## 📈 Progreso diario (en qué día voy)
