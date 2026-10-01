@@ -29,16 +29,20 @@ Decisión tomada el **2026-09-24** con estos datos:
 | M03 | Protect against threats, risks and vulnerabilities | [[C01-M03-protect-against-threats]] | 🖊️ retro (repaso) |
 | M04 | Cybersecurity tools and programming languages | [[C01-M04-tools-and-programming-languages]] | ✅ llena (ejemplo) |
 
-### Curso 2 — *Play It Safe: Manage Security Risks* · **4 módulos** *(títulos y duraciones verificados 2026-09-24 en la página del curso)*
+### Curso 2 — *Play It Safe: Manage Security Risks* ✅ **completado el 2026-09-30** *(🟡 declarado; falta la captura del `Grade`)* · **4 módulos**
 
-> ⏰ **Vence:** `Module 1 challenge` Sep 28 · `Module 2 challenge` + *Portfolio Activity: Conduct a security audit* **Oct 2** (5% del curso) · `M3 challenge` Oct 7 · `M4 challenge` Oct 9.
+> ⏰ **Fechas de Coursera:** `M1 challenge` Sep 28 · `M2 challenge` + *Portfolio Activity: Conduct a security audit* **Oct 2** (5% del curso) · `M3 challenge` Oct 7 · `M4 challenge` Oct 9.
 
 | Módulo | Título | Duración | Hoja | Estado |
 |---|---|---|---|---|
-| M01 | Security domains | 2h18m | [[C02-M01-security-domains]] | ✅ **100%** (2026-09-24) |
-| M02 | Security frameworks and controls *(aquí entra OWASP)* | 3h07m | | ⬜ |
-| M03 | Introduction to cybersecurity tools *(SIEM, dashboards)* | 1h40m | | ⬜ |
-| M04 | Use playbooks to respond to incidents | 1h55m | | ⬜ |
+| M01 | Security domains | 2h18m | [[C02-M01-security-domains]] | ✅ **100%** (2026-09-24) · 🖊️ **criterio de producción pendiente** |
+| M02 | Security frameworks and controls *(aquí entra OWASP)* | 3h07m | ⏳ sin abrir | 🟡 terminado (declarado 30-09) |
+| M03 | Introduction to cybersecurity tools *(SIEM, dashboards)* | 1h40m | ⏳ sin abrir | 🟡 terminado (declarado 30-09) |
+| M04 | Use playbooks to respond to incidents | 1h55m | ⏳ sin abrir | 🟡 terminado (declarado 30-09) |
+
+> ⏳ **Las hojas C02-M02 / M03 / M04 no se han abierto, y hay un motivo medido** (no es olvido): la hoja exige el **mapa real de lecciones** y ese mapa **no se inventa**. Intento del **2026-09-30**: el export de Coursera en momo (`python sync-coursera.py --slug play-it-safe-manage-security-risks`) falló con **`403 Forbidden`** en `onDemandCourseMaterials.v2` — mientras que **con la misma cookie** el Curso 1 sí se exportó (77 archivos) ⇒ **no es cookie caducada**, es el endpoint para ese curso.
+> **Se desbloquea de dos formas**: **(a)** exportar con la herramienta alternativa (`coursera-scraper`) desde momo, o **(b)** que Diego pegue/dicte las lecciones de *Course Material* del Curso 2 (4 listas) y el asistente abre las hojas con el mapa real.
+> Mientras eso no pase, el **repaso espaciado del Curso 2 queda con un solo punto** (C02-M01): es la deuda real que deja el cierre del curso, y se anota como tal.
 
 ### Cursos 3–9 *(títulos verificados 2026-09-24; nº de módulos por verificar cuando toque)*
 
@@ -74,4 +78,4 @@ Decisión tomada el **2026-09-24** con estos datos:
 | <https://professormesser.com> | Repaso en video Network+/Security+ |
 
 ---
-_Actualizado: 2026-09-24_
+_Actualizado: 2026-09-30_
