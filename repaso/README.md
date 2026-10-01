@@ -1,5 +1,6 @@
 # Hojas de recuperación por módulo
 
+> Carpeta **`repaso/`** (antes `hojas/`; renombrada el 2026-09-30 para que se entienda de un vistazo).
 > Una hoja por **módulo** de Coursera (`CX-MXX-<slug>.md`). Se abre al empezar el módulo y se cierra el día que apruebas su *module challenge*.
 > Plantilla: [`plantillas/hoja-modulo.md`](../plantillas/hoja-modulo.md) · Plan del mes: [`MES-1-DETALLADO.md`](../M1-fundamentos/MES-1-DETALLADO.md)
 

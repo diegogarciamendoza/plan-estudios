@@ -1,13 +1,13 @@
 # Plan de Estudios — Ciberseguridad / SOC (Diego) · Resumen General
 
-> Fuente autoritativa: `~/wiki/concepts/plan-carrera-ciberseguridad.md` (v3, revisado por Luna, 2026-09-16)
+> Fuente autoritativa: mi wiki personal (v3 del plan, revisada por un modelo externo el 2026-09-16)
 > Detalle del primer mes: [`MES-1-DETALLADO.md`](./MES-1-DETALLADO.md)
 
 ## Perfil
 
 - Edad 40+, México. Disponibilidad: **20+ h/semana**.
-- Inglés: **técnico intermedio** (módulo aplicado a SOC, no curso general). **Medido 2026-09-21** con [EFSET 4-skills](https://cert.efset.org/en/uMnF3B): **C1 global (66/100)** — Reading 74 · Listening 81 · Writing 59 (B2) · Speaking 48 (B1) → el cuello de botella es la **producción**, no la comprensión.
-- Presupuesto mensual: **$300–1,000 MXN** + **Coursera Plus YA activo (patrocinado por un familiar)**.
+- Inglés: **técnico intermedio** (módulo aplicado a SOC, no curso general). **Medido el 2026-09-21** con EFSET 4-skills: nivel **C1 global**, con comprensión muy por encima de la producción → el cuello de botella es **producir** (escribir/hablar), no comprender. *(Resultados detallados: fuera del repo público.)*
+- Recursos: **Coursera Plus activo desde septiembre**; el gasto del año se concentra en el examen de Security+. *(Detalle económico: fuera del repo público.)*
 - Base actual: programación intermedia · Linux básico · reparación de PCs · redes básicas · electrónica incompleta · power user.
 
 ## Modo actual (desde 2026-09-21)
@@ -60,20 +60,20 @@ Puertas de entrada realistas: help desk con tareas de seguridad → NOC junior �
 
 Cada repo: README, arquitectura, pasos de reproducción, consultas, screenshots, resultados, falsos positivos, "qué haría después" y aviso de laboratorio.
 
-## Presupuesto anual (~$7,500–9,000 MXN total)
+## Presupuesto (regla, sin cifras)
 
-- Meses 1–6: **$0–300/mes** (todo gratis o casi gratis; Coursera Plus ya pagado por el familiar).
-- Meses 7–8: ahorrar para Security+.
+- Meses 1–6: todo gratis o ya cubierto (Coursera Plus activo).
+- Meses 7–8: apartar el costo del examen de Security+.
 - Meses 9–12: examen único comprado cuando esté preparado.
 - **No pagar**: TryHackMe Premium (máximo 1–2 meses puntuales), libros nuevos (biblioteca/2ª mano/gratis).
-- Si el voucher excede el presupuesto: esperar y ahorrar, promo oficial/voucher regional, o portafolio + aplicar sin cert.
+- Si el voucher excede lo disponible: esperar y ahorrar, promo oficial/voucher regional, o portafolio + aplicar sin cert.
 
 ## Riesgos (previstos, no sorpresas)
 
 - **Turnos/condiciones**: muchos SOC L1 son 24/7 — noche, rotación, presencial, monotonía. Evaluar turnos, transporte y guardias desde el inicio (no idealizar el primer empleo).
 - **Edad (40+)**: no ocultarla ni hacerla el centro. El CV se plantea como transición técnica con experiencia previa: resolución de problemas, reparación, autonomía, disciplina.
 - **Inglés**: es el módulo que más se abandona. 2 h/semana fijas, aplicadas a SOC (resumen ejecutivo, documentación oficial, entrevistas), no un curso general. **Arreglo 2026-09-20:** esas 2 h se reparten en **15 min diarios + la sesión larga del sábado**, y el foco pasa de *leer* a **producir** (diagnóstico medido: 3/8 dominios CISSP producibles de memoria, aunque sí se reconocen al leerlos). La práctica oral va enganchada al repaso SRS (el reverso en inglés **se dice en voz alta** antes de graduar) para que no cueste minutos extra. Métrica de cierre por módulo: producir de memoria en inglés los términos técnicos del módulo (dominios CISSP, tipos de ataque) antes de darlo por cerrado. Subtítulos del curso **en inglés, nunca en español**.
-- **Inglés — medición externa y arreglo 2026-09-21 (EFSET 4-skills)**: [certificado](https://cert.efset.org/en/uMnF3B) → **C1, 66/100** · Reading **74** (C2) · Listening **81** (C2) · **Writing 59 (B2)** · **Speaking 48 (B1)**. Lectura: no es falta de inglés, es **producción en tiempo real** (oír 81 ↔ hablar 48 = 33 puntos; escribir rinde más que hablar porque da tiempo a recuperar y corregir). Consecuencias: (1) los 15 min diarios pasan a **≥70% producción** en rotación escritura/oral; (2) el sábado produce **1 artefacto escrito en inglés** = a la vez entregable del portafolio (informe de incidente, executive summary, ticket de phishing); (3) leer y escuchar **no tienen tiempo asignado** (ya C2, siguen como insumo del curso); (4) feedback del asistente con rúbrica + **bitácora de errores** → tarjetas SRS solo de errores recurrentes; (5) retest EFSET 4-skills a los ~3 meses (gratis, <https://www.efset.org/4-skill/>).
+- **Inglés — medición externa y arreglo 2026-09-21 (EFSET 4-skills)**: la medición confirmó **nivel C1 con la producción muy por debajo de la comprensión** — la **brecha** es el hallazgo, no la nota. Lectura: no es falta de inglés, es **producción en tiempo real** (escribir rinde más que hablar porque da tiempo a recuperar y corregir). *(Resultados por habilidad: fuera del repo público.)* Consecuencias: (1) los 15 min diarios pasan a **≥70% producción** en rotación escritura/oral; (2) el sábado produce **1 artefacto escrito en inglés** = a la vez entregable del portafolio (informe de incidente, executive summary, ticket de phishing); (3) leer y escuchar **no tienen tiempo asignado** (ya C2, siguen como insumo del curso); (4) feedback del asistente con rúbrica + **bitácora de errores** → tarjetas SRS solo de errores recurrentes; (5) retest EFSET 4-skills a los ~3 meses (gratis, <https://www.efset.org/4-skill/>).
 
 ## Salarios (usar con cautela)
 

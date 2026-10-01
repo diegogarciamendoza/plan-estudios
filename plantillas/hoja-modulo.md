@@ -8,7 +8,7 @@ cerrada:
 tags:
   - hoja-modulo
 enlaces:
-  - hojas/README
+  - repaso/README
   - M1-fundamentos/MES-1-DETALLADO
 ---
 
@@ -16,7 +16,7 @@ enlaces:
 
 > **Curso X *<título>* · módulo XX de NN · ~Xh de video/lectura.**
 > Se abre el día que **empieza** el módulo y se cierra el día que apruebas su *module challenge*.
-> Una hoja = un módulo. Nunca un resumen por curso (el motivo está en [[hojas/README]]).
+> Una hoja = un módulo. Nunca un resumen por curso (el motivo está en [[repaso/README]]).
 
 **Cómo se usa (3 reglas):**
 
@@ -64,7 +64,7 @@ Los términos salen del glosario del módulo (lección *Glossary terms from modu
 
 ## Fuentes
 
-Solo fuentes **públicas y verificadas** (fecha de verificación incluida). El mapa de todas las del plan vive en [[hojas/README]].
+Solo fuentes **públicas y verificadas** (fecha de verificación incluida). El mapa de todas las del plan vive en [[repaso/README]].
 
 | Fuente | Qué cubre de este módulo | Verificada |
 |---|---|---|

@@ -9,7 +9,7 @@ tags:
   - hoja-modulo
   - coursera
 enlaces:
-  - hojas/README
+  - repaso/README
   - diario/2026-09-22
   - M1-fundamentos/tablero
 ---
@@ -72,7 +72,7 @@ Términos del glosario del módulo 4 (tiene **12**; estos 3 son los que se produ
 
 | Fuente | Qué cubre de este módulo | Verificada |
 |---|---|---|
-| — (sin fuente externa propia para este módulo) | Las tres que trajo Diego encajan en **C2-M02** (OWASP), **C5/C6** (Threat Horizons) y **C8** (CISA) — ver [[hojas/README]] | 2026-09-24 |
+| — (sin fuente externa propia para este módulo) | Las tres que trajo Diego encajan en **C2-M02** (OWASP), **C5/C6** (Threat Horizons) y **C8** (CISA) — ver [[repaso/README]] | 2026-09-24 |
 
 ## SRS
 

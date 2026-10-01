@@ -10,14 +10,14 @@ tags:
   - coursera
   - retro
 enlaces:
-  - hojas/README
+  - repaso/README
   - diario/2026-09-17
 ---
 
 # C1 · M01 — Welcome to the exciting world of cybersecurity
 
 > **Curso 1 *Foundations of Cybersecurity* · módulo 1 de 4.** Hoja **retro** (2026-09-24): el módulo se cerró en la primera semana y esto es el repaso espaciado — contesta **sin** volver a los videos; lo que no salga es exactamente lo que hay que repasar.
-> Cómo se usa: [[plantillas/hoja-modulo]] · motivo de "una hoja por módulo": [[hojas/README]]
+> Cómo se usa: [[plantillas/hoja-modulo]] · motivo de "una hoja por módulo": [[repaso/README]]
 
 **Hecho cuando:** mapa completo + las 6 respuestas escritas (aunque sean parciales) + los términos del inglés producidos en voz alta y escritos.
 
@@ -76,7 +76,7 @@ Términos del glosario del módulo 1 (la lista autoritativa tiene 11; estos son 
 
 | Fuente | Qué cubre de este módulo | Verificada |
 |---|---|---|
-| — (módulo introductorio, sin fuente externa propia) | El mapa de fuentes del plan está en [[hojas/README]] | 2026-09-24 |
+| — (módulo introductorio, sin fuente externa propia) | El mapa de fuentes del plan está en [[repaso/README]] | 2026-09-24 |
 
 ## SRS
 

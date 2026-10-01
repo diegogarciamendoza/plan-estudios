@@ -14,3 +14,6 @@
 .obsidian/plugins/*/main.js
 .obsidian/plugins/*/styles.css
 .obsidian/plugins/*/manifest.json
+
+# Certificado de idioma (contiene datos personales) — no se publica
+certificates/EF SET*.pdf

@@ -1,94 +1,91 @@
-<p align="center">
-  <strong>PLAN-ESTUDIOS</strong><br>
-  <em>Ruta SOC / Seguridad Defensiva · 12 meses · v3</em><br>
-  Repositorio de estudio personal — progreso semanal, notas, labs y entregables.
-</p>
+# Plan de estudios: SOC L1 y ciberseguridad defensiva
 
----
+**Diego García Mendoza · 40+ · México.** Repositorio personal de estudio para una transición a
+**seguridad defensiva / SOC L1**. Documenta aprendizaje, práctica, entregables propios y **los
+límites de la evidencia**. Todavía no es un portafolio de proyectos técnicos: eso llega en la fase 2.
 
-## 🎯 Objetivo
+## En 20 segundos
 
-> En 12 meses, demostrar competencias de SOC L1 con **3 investigaciones reproducibles**, un
-> laboratorio funcional, **Security+** si el presupuesto lo permite y **experiencia real de
-> postulación/entrevista**.
+- **Objetivo:** construir los fundamentos de un puesto inicial en SOC / seguridad defensiva.
+- **Enfoque:** redes, seguridad defensiva, análisis, Linux, SQL, Python y comunicación técnica.
+- **Método:** estudiar → explicarlo con mis palabras → practicarlo → registrar la evidencia.
+- **Ahora:** Google Cybersecurity Certificate (2 de 9 cursos) + inglés técnico aplicado.
 
-**Perfil**: 40+ · 20 h/semana · inglés técnico intermedio · base: Linux, reparación, redes, electrónica.
+## Qué puedes inspeccionar
 
-## 🗺️ Ruta (12 meses)
+| Área | Contenido |
+|---|---|
+| **Cursos** | [Trackers por curso](cursos/README.md) — estado, qué aprendí, fuentes, entregables |
+| **Entregables** | [Trabajos propios](entregables/README.md) — lo que un tercero puede leer y evaluar |
+| **Proyectos** | [Proyectos reproducibles](proyectos/README.md) — vacío por diseño (fase 2) |
+| **Repaso** | [Hojas de recuperación](repaso/README.md) — 1 hoja por módulo; se *responden* |
+| **Recursos** | [Glosario SOC (inglés)](glosario.md) · [Mercado laboral MX](vacantes-analisis.md) · [Vacantes remotas](vacantes-remoto-global.md) |
+| **Panel interno** | [interno/panel.md](interno/panel.md) — el taller (día actual, tabla de días, sync) |
 
-| Fase | Periodo | Contenido | Certificación | Progreso |
-|---|---|---|---|---|
-| **M1** | Meses 1–2 | Google Cybersecurity + TryHackMe SOC | Google (Coursera) | `██░░░` **Cursos 1–2/9 ✅** · Curso 1 `90.63%` · **Curso 2 completo (4/4)** *(evidencia: declarado 2026-09-30, pendiente captura)* |
-| **M2** | Meses 7–8 | Security+ SY0-701 | **Security+** 🎯 | `░░░░░` 0% |
-| **M3** | Meses 9–12 | Especialización + CySA+ (opcional) | CySA+/eJPT | `░░░░░` 0% |
+## Progreso verificado
 
-📄 [GENERAL.md](GENERAL.md) — el plan completo (12 meses) · 📅 [MES-1-DETALLADO.md](M1-fundamentos/MES-1-DETALLADO.md) · 🧭 [SEMANA-1.md](M1-fundamentos/SEMANA-1.md) · 🎛️ [MODO-CURSERA-INGLES.md](M1-fundamentos/MODO-CURSERA-INGLES.md) · 🃏 [hojas/](hojas/README.md) — hojas de recuperación por módulo
+| Elemento | Estado | Evidencia |
+|---|---|---|
+| Google Cybersecurity Certificate · **Curso 1** *Foundations of Cybersecurity* | ✅ **4/4** · `Grade: 90.63%` | [certificado](certificates/Coursera%20UM5RDPDAA4ZO.pdf) + capturas de los módulos |
+| Google Cybersecurity Certificate · **Curso 2** *Play It Safe: Manage Security Risks* | ✅ **4/4** · `Grade: 98.51%` · *module challenges* 100 · 100 · 93.75 · 100 | [certificado](certificates/Coursera%2077G70TAQTN4Q.pdf) + captura del 2026-09-30 |
+| Google Cybersecurity Certificate · **Curso 3** *Connect and Protect: Networks and Network Security* | ▶️ inicia el 2026-10-01 | — |
+| Hojas de recuperación por módulo | 5 hojas (C01 M01–M04 · C02 M01) | [repaso/](repaso/README.md) |
+| Proyectos técnicos | ⬜ ninguno todavía | fase 2 del plan |
 
-## 📌 Día actual
+Estados: **✅ verificado** (existe evidencia que revisé) · **🟡 declarado o en progreso** (falta
+comprobarlo) · **⛔ no salió** (se intentó y no se obtuvo el resultado esperado).
 
-**▶️ Día 8** (2026-09-30, en curso: **Curso 2 *Play It Safe* COMPLETO (4/4)** — *evidencia: declarado, pendiente captura*; abierto: repaso SRS de las 7 `again` de TLS y los **8 dominios CISSP** de memoria) · Último día cerrado: [diario/2026-09-22.md](diario/2026-09-22.md) · **siguiente: Curso 3 *Connect and Protect: Networks and Network Security***
+## Cómo leo la evidencia
 
-> 🗓️ **2026-09-30 (miércoles)**: **Curso 2 completado** (módulos 2, 3 y 4 — 🟡 declarado, capturas pendientes) · investigación de **cursos complementarios de Coursera** (§10 de [la nota](diario/2026-09-30.md)) y de **precios de certificaciones** · dirección declarada: *cursos estructurados y con certificado* (pendiente de decisión) · el **09-25, 27, 28 y 29 quedaron sin nota**.
+Cada actividad intenta distinguir cuatro cosas:
 
-> 🎛️ **Modo vigente desde el Día 5: Coursera + inglés** ([detalle](M1-fundamentos/MODO-CURSERA-INGLES.md)). Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan **pausados con condición de reactivación** según el curso.
+1. Qué afirmo haber hecho.
+2. Qué evidencia lo respalda.
+3. **Qué no demuestra** esa evidencia.
+4. Qué quedó pendiente.
 
-## 📈 Progreso diario (en qué día voy)
+Una captura de pantalla puede demostrar una calificación o una finalización, pero **no** demuestra
+por sí sola comprensión ni capacidad práctica. Por eso el termómetro de este repositorio no es el
+`Grade`, sino la **hoja del módulo contestada** y el repaso espaciado.
 
-_`[x]` hecho · `[ ]` pendiente — marca al cerrar cada día de estudio; el link va a la nota del día._
+## Entregables
 
-| Día    | Tema                                              | Estado                                             |
-| ------ | ------------------------------------------------- | -------------------------------------------------- |
-| **01** | Shell: `pwd ls cd cat less man` | ✅ [nota](diario/2026-09-17.md) |
-| 02 | Redes TCP/IP + DNS + Linux self-paced (TryHackMe) | ✅ [nota](diario/2026-09-18.md) · DNS cerrado el 19 |
-| 03 | HTTP/TLS + Bandit 2–4 | ✅ [nota](diario/2026-09-19.md) · Bandit hasta la cuenta 8 · handshake explicado |
-| 04 | Git + glosario SOC + Coursera mód 2–3 + repaso SRS | ✅ [nota](diario/2026-09-20.md) · challenges 85% y 95% verificados · arrastra: glosario 2/20 |
-| 05 | Medición de inglés (EFSET) + reenfoque del plan | ✅ [nota](diario/2026-09-21.md) · EFSET **C1 66** verificado (W 59 · S 48 = producción) · modo **Coursera + inglés** · el curso no avanzó: README y baseline → domingo-flex |
-| 06 | Coursera Curso 1 · **módulo 4** + inglés oral | 🔄 [nota](diario/2026-09-22.md) · ✅ **Curso 1 COMPLETO** (90.63% · *Module 4 challenge* **94.44%**, captura verificada) + certificado en el repo · **falta el bloque de inglés** |
-| 07 | Curso 2 · **módulo 1 *Security domains*** + diseño de las hojas de recuperación | 🔄 [nota](diario/2026-09-24.md) · ✅ **mód 1/4** (*Module 1 challenge* `Passed · **100%**`, captura verificada) · falta el bloque de inglés y los 8 dominios CISSP de memoria · *(el 09-23 quedó sin nota)* |
-| **08** | Curso 2 · **módulos 2–4** → **CURSO COMPLETO** + investigación de cursos complementarios | 🔄 [nota](diario/2026-09-30.md) · 🟡 **Curso 2 4/4 *declarado*** (capturas pendientes) · abierto: repaso SRS de las 7 `again` de TLS *(los días 09-25, 27, 28 y 29 quedaron sin nota)* |
+| Trabajo | Qué contiene | Qué no pretende demostrar |
+|---|---|---|
+| Evaluación de controles de seguridad *(Curso 2)* | ejercicio educativo sobre el escenario del curso (calificado 100%) | auditoría de una organización real |
+| Investigación de mercado laboral (MX) | método, 28 vacantes reales y reglas de rigor | garantía de empleo o de salario |
+| Glosario SOC (inglés) | términos técnicos con mi propia definición | dominio del inglés hablado |
 
-_Leyenda: ✅ hecho · 🔄 en curso · ⬜ pendiente_
+## Privacidad y alcance
 
-## 📁 Estructura
+Este repositorio contiene material propio y resúmenes elaborados por mí. **No** incluye
+transcripciones, lecturas completas, quizzes ni otros materiales protegidos de los cursos: de ellos
+solo hay citas cortas, mis palabras y enlaces a fuentes públicas. Los escenarios educativos se
+identifican como **simulados** cuando no hubo acceso a una organización o infraestructura real.
 
+Los datos personales por encima de lo necesario para entender el contexto (presupuesto, resultados
+detallados de exámenes de idioma, expectativas salariales) **no se publican aquí**.
+
+## Estructura
+
+```text
+cursos/        seguimiento por curso (multi-curso, no solo Coursera)
+entregables/   trabajos propios terminados o en progreso
+proyectos/     prácticas técnicas reproducibles (fase 2)
+repaso/        hojas de recuperación por módulo (se responden, no se leen)
+diario/        registro de estudio diario
+interno/       panel operativo y notas de mantenimiento
+plantillas/    las plantillas que uso (diaria ligera, tracker, hoja, entregable)
+attachments/   capturas        certificates/  certificados
+glosario.md · vacantes-*.md    recursos de consulta
 ```
-plan-estudios/
-├── README.md            ← este archivo (panel: mapa, progreso, día actual)
-├── GENERAL.md           ← plan de 12 meses (referencia, se lee al planear)
-├── glosario.md          ← inglés: términos SOC (crece todo el año)
-├── vacantes-*.md        ← mercado laboral (referencia)
-├── diario/              ← 1 nota por día, TODO el día: YYYY-MM-DD.md
-├── hojas/               ← 1 hoja de recuperación por MÓDULO de Coursera (CX-MXX-<slug>)
-├── attachments/         ← imágenes/capturas (Obsidian pega aquí: `.obsidian/app.json`)
-├── M1-fundamentos/      ← solo lo durable: SEMANA-N, MES-1, tablero, entregables grandes
-├── M2-security-plus/    ← meses 7-8
-├── M3-especializacion/  ← meses 9-12
-└── plantillas/          ← diaria.md + hoja-modulo.md
-```
 
-**Regla (KISS):** lo de cada día va en `diario/YYYY-MM-DD.md`, con todo junto (aprendí + práctica + duda). Solo sube al módulo lo que de verdad va a **crecer o reutilizarse** (glosario, scripts, entregables grandes). Si dudas, va al diario — nada de decidir tipos por cada nota.
+## Estado
 
-## 🧭 Cómo lo uso a diario
+Repositorio en construcción: se prioriza mantener **pocos documentos útiles** sobre acumular notas o
+enlaces. El plan completo de 12 meses está en [GENERAL.md](GENERAL.md).
 
-1. **Nota del día:** `Ctrl+P` → "Periodic Notes: Open daily note" (se crea en `diario/` con la plantilla).
-2. **Todo el día ahí**: aprendí + comandos + práctica + duda. 5 min al cerrar el bloque.
-3. **Hoja del módulo** ([hojas/](hojas/README.md)): se abre cuando **empieza** un módulo de Coursera y se cierra el día que apruebas su *module challenge*. Se **responde** (respuestas en callout plegado), no se lee.
-4. **Tablero semanal** ([tablero.md](M1-fundamentos/tablero.md)): muevo lo hecho a "Hecho" el domingo (o yo lo actualizo).
-5. **README**: marco `[x]` en la tabla diaria y enlazo la nota del día.
-6. **Sync:** automático cada 30 min con Obsidian abierto (`Ctrl+P` → "Obsidian Git: Commit-and-sync" para forzar; si falla, ver "cómo resolver pull" abajo).
+## Licencia
 
-Teclas: `Ctrl+O` abrir rápido · `Ctrl+Shift+F` buscar en todo · `Ctrl+E` leer/editar.
-
-## 🔒 Notas personales
-
-- Este repo es **público** (muestra evidencia de estudio y progreso — suma al CV).
-- ⚠️ Nada de credenciales reales ni datos sensibles: cualquier `*bandit*.md` está en `.gitignore`, no se sube.
-- Regla de oro: **un commit por día de estudio** — si no está en el repo, no está hecho.
-
-## 🔧 Trouble-shooting del sync (Windows)
-
-- **Pull failed (merge)**: hay cambios locales sin commitear que el pull no puede sobrescribir → `git stash` → `git pull` → `git stash pop`. Si `pop` da `deleted by us`, es un archivo viejo eliminado: descartarlo con `git rm` y `git stash drop`.
-- **"Modified" fantasma** (LF↔CRLF, diff vacío): costumbre de Obsidian en Windows; descartar con `git checkout -- <archivo>`.
-
----
-_Actualizado: Día 8 · 2026-09-30 · Semana 1 · ⚠️ el certificado pasó de **8 a 9 cursos** (verificado en coursera.org)_
+Contenido propio: pendiente de elegir licencia. Los nombres, marcas, cursos y materiales de terceros
+pertenecen a sus respectivos autores y se enlazan únicamente como referencia.

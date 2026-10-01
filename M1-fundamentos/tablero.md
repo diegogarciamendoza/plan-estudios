@@ -14,7 +14,7 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — Curso 1 ✅ completo · **Curso 2 ✅ COMPLETO (4/4)** *(evidencia: **declarado** 2026-09-30, capturas pendientes)* → siguiente **Curso 3 *Connect and Protect: Networks and Network Security*** · Mapa en [[MES-1-DETALLADO]] · **hojas de recuperación por módulo** en [[hojas/README|hojas/]]
+- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — **Curso 1 ✅** (`90.63%`) · **Curso 2 ✅** (`98.51%`, captura verificada el 2026-09-30) → en curso **Curso 3 *Connect and Protect: Networks and Network Security*** · Mapa en [[MES-1-DETALLADO]] · **hojas de repaso por módulo** en [[repaso/README|repaso/]] · trackers en [[cursos/README|cursos/]]
 
 ## ⏸️ Pausado (reactiva con los cursos 3/4/6/7 — ver [[MODO-CURSERA-INGLES]])
 
@@ -26,7 +26,9 @@ kanban-plugin: board
 
 ## Hecho
 
-- [x] 🃏 **Hojas de recuperación por módulo** (decisión: por módulo, no por curso) — plantilla `plantillas/hoja-modulo.md` + índice y fuentes verificadas en `hojas/README.md` + ejemplo lleno (C1-M04) + C2-M01 lista — 2026-09-24
+- [x] 🧭 **Rediseño del repo (vitrina + taller)** — 2026-09-30: README vitrina (se lee en 20 s, solo progreso verificado) · `cursos/` (tracker por curso) · `entregables/` · `proyectos/` (vacío declarado) · `interno/panel.md` · `hojas/` → `repaso/` · plantillas `diaria-ligera` y `tracker-curso` · revisión externa (Luna) en `~/notas/2026-09-30-luna-revision-estructura.md`
+- [x] 🎓 Coursera: **Curso 2 *Play It Safe* COMPLETO (4/4)** — 2026-09-30 *(evidencia: ✅ **captura verificada con visión** · `You passed this course!` · `Grade: 98.51%` · *module challenges* **100 · 100 · 93.75 · 100** · portfolio activities 100% · certificado `certificates/Coursera 77G70TAQTN4Q.pdf` · [[2026-09-30]])*
+- [x] 🃏 **Hojas de recuperación por módulo** (decisión: por módulo, no por curso) — plantilla `plantillas/hoja-modulo.md` + índice y fuentes verificadas en `repaso/README.md` + ejemplo lleno (C1-M04) + C2-M01 lista — 2026-09-24
 - [x] 🎓 Coursera: **Curso 1 *Foundations of Cybersecurity* COMPLETO (4/4 módulos)** — 2026-09-22 *(evidencia: ✅ **verificada con visión** · `Course 1 of 9 · Completed: September 22, 2026 · Grade: 90.63%` · *Module 4 challenge* `Submitted · 94.44% · Graded` · certificado `attachments/2026-09-22 certificate.png` + `certificates/Coursera UM5RDPDAA4ZO.pdf`, [[2026-09-22]])*
 - [x] Repo + vault de Obsidian con auto-sync
 - [x] 🎓 Coursera: Curso 1 "Foundations of Cybersecurity" — módulo 1 terminado

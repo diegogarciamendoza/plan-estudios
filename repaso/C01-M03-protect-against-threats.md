@@ -10,7 +10,7 @@ tags:
   - coursera
   - retro
 enlaces:
-  - hojas/README
+  - repaso/README
   - diario/2026-09-20
   - M1-fundamentos/tablero
 ---

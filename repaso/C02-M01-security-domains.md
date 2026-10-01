@@ -9,7 +9,7 @@ tags:
   - hoja-modulo
   - coursera
 enlaces:
-  - hojas/README
+  - repaso/README
   - M1-fundamentos/tablero
   - M1-fundamentos/MES-1-DETALLADO
 ---
@@ -18,7 +18,7 @@ enlaces:
 
 > **Curso 2 *Play It Safe: Manage Security Risks* · módulo 1 de 4 · ~2h18m.**
 > Se abre el día que **empieza** el módulo y se cierra el día que apruebas su *module challenge*.
-> Una hoja = un módulo. Nunca un resumen por curso (el motivo está en [[hojas/README]]).
+> Una hoja = un módulo. Nunca un resumen por curso (el motivo está en [[repaso/README]]).
 
 **Cómo se usa (3 reglas):**
 
@@ -100,7 +100,7 @@ Términos **candidatos** (confírmalos con el glosario de la lección *Glossary 
 | <https://www.isc2.org/certifications/cissp> | Los **8 dominios CISSP** (fuente oficial ISC2) | 2026-09-24 · HTTP 200 |
 | <https://www.nist.gov/cyberframework> | El **CSF** (para no confundirlo con el RMF; se usa en el M02) | 2026-09-24 · HTTP 200 |
 
-> Las fuentes que trajo Diego (OWASP Top 10, CISA, Threat Horizons) están mapeadas a su módulo en [[hojas/README]] — la de **OWASP entra en el M02** de este mismo curso.
+> Las fuentes que trajo Diego (OWASP Top 10, CISA, Threat Horizons) están mapeadas a su módulo en [[repaso/README]] — la de **OWASP entra en el M02** de este mismo curso.
 
 ## SRS
 
