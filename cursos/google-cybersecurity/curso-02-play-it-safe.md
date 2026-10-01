@@ -20,7 +20,7 @@ estado: ✅ completado
 
 | # | Módulo | Estado | *Module challenge* | Hoja de repaso |
 |---|---|---|---|---|
-| 01 | Security domains (2h18m) | ✅ | **100%** | [C02-M01](../repaso/C02-M01-security-domains.md) — 🖊️ criterio de producción pendiente |
+| 01 | Security domains (2h18m) | ✅ | **100%** | [C02-M01](../../repaso/C02-M01-security-domains.md) — 🖊️ criterio de producción pendiente |
 | 02 | Security frameworks and controls (3h07m) · aquí entra **OWASP** | ✅ | **100%** | ⏳ sin abrir |
 | 03 | Introduction to cybersecurity tools (SIEM, dashboards) (1h40m) | ✅ | **93.75%** | ⏳ sin abrir |
 | 04 | Use playbooks to respond to incidents (1h55m) | ✅ | **100%** | ⏳ sin abrir |

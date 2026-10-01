@@ -1,7 +1,7 @@
 # Plan de Estudios — Ciberseguridad / SOC (Diego) · Resumen General
 
 > Fuente autoritativa: mi wiki personal (v3 del plan, revisada por un modelo externo el 2026-09-16)
-> Detalle del primer mes: [`MES-1-DETALLADO.md`](./MES-1-DETALLADO.md)
+> Detalle del primer mes: [`MES-1-DETALLADO.md`](M1-fundamentos/MES-1-DETALLADO.md)
 
 ## Perfil
 

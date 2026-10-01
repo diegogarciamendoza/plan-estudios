@@ -20,10 +20,10 @@ estado: ✅ completado
 
 | # | Módulo | Estado | *Module challenge* | Hoja de repaso |
 |---|---|---|---|---|
-| 01 | Welcome to the exciting world of cybersecurity | ✅ | — (sin challenge; glosario de 11 términos) | [C01-M01](../repaso/C01-M01-welcome-to-cybersecurity.md) |
-| 02 | The evolution of cybersecurity (8 dominios CISSP, ataques, malware) | ✅ | **85%** | [C01-M02](../repaso/C01-M02-evolution-of-cybersecurity.md) |
-| 03 | Protect against threats, risks and vulnerabilities (frameworks y controls, CIA, NIST, ética) | ✅ | **95%** | [C01-M03](../repaso/C01-M03-protect-against-threats.md) |
-| 04 | Cybersecurity tools and programming languages (SIEM, Linux, SQL, Python) | ✅ | **94.44%** | [C01-M04](../repaso/C01-M04-tools-and-programming-languages.md) |
+| 01 | Welcome to the exciting world of cybersecurity | ✅ | — (sin challenge; glosario de 11 términos) | [C01-M01](../../repaso/C01-M01-welcome-to-cybersecurity.md) |
+| 02 | The evolution of cybersecurity (8 dominios CISSP, ataques, malware) | ✅ | **85%** | [C01-M02](../../repaso/C01-M02-evolution-of-cybersecurity.md) |
+| 03 | Protect against threats, risks and vulnerabilities (frameworks y controls, CIA, NIST, ética) | ✅ | **95%** | [C01-M03](../../repaso/C01-M03-protect-against-threats.md) |
+| 04 | Cybersecurity tools and programming languages (SIEM, Linux, SQL, Python) | ✅ | **94.44%** | [C01-M04](../../repaso/C01-M04-tools-and-programming-languages.md) |
 
 ## Qué aprendí (con mis palabras)
 

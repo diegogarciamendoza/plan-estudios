@@ -1,7 +1,7 @@
 # Mes 1 — Fundamentos de SOC (semana a semana)
 
 > Para Diego. En español, directo. Fuente: `~/wiki/concepts/plan-carrera-ciberseguridad.md` (v3).
-> Resumen general del plan: [`GENERAL.md`](./GENERAL.md)
+> Resumen general del plan: [`GENERAL.md`](../GENERAL.md)
 
 ## Cómo usar este documento
 
