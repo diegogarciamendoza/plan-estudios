@@ -45,11 +45,19 @@ Decisión tomada el **2026-09-24** con estos datos:
 > **Se desbloquea de dos formas**: **(a)** exportar con la herramienta alternativa (`coursera-scraper`) desde momo, o **(b)** que Diego pegue/dicte las lecciones de *Course Material* del Curso 2 (4 listas) y el asistente abre las hojas con el mapa real.
 > Mientras eso no pase, el **repaso espaciado del Curso 2 queda con un solo punto** (C02-M01): es la deuda real que deja el cierre del curso, y se anota como tal.
 
-### Cursos 3–9 *(títulos verificados 2026-09-24; nº de módulos por verificar cuando toque)*
+### Curso 3 — *Connect and Protect: Networks and Network Security* ▶️ **iniciado el 2026-10-03** · **4 módulos** *(mapa real leído del export de Coursera el 2026-10-03)*
+
+| Módulo | Título | Hoja | Estado |
+|---|---|---|---|
+| M01 | Network architecture | [[C03-M01-network-architecture]] | 🖊️ abierta (2026-10-03) |
+| M02 | Network operations | ⏳ sin abrir | — |
+| M03 | Secure against network intrusions | ⏳ sin abrir | — |
+| M04 | Security hardening | ⏳ sin abrir | — |
+
+### Cursos 4–9 *(títulos verificados 2026-09-24; nº de módulos por verificar cuando toque)*
 
 | # | Curso | Hoja |
 |---|---|---|
-| 3 | Connect and Protect: Networks and Network Security | ⬜ |
 | 4 | Tools of the Trade: Linux and SQL | ⬜ |
 | 5 | Assets, Threats, and Vulnerabilities | ⬜ |
 | 6 | Sound the Alarm: Detection and Response | ⬜ |

@@ -13,14 +13,17 @@ estado: ▶️ en curso
 | Programa | Google Cybersecurity Certificate (9 cursos) |
 | Proveedor | Google · Coursera |
 | Inicio / cierre | **2026-10-03** → (abierto) |
-| Módulos | por confirmar (no se inventa el número) |
+| Módulos | **4** (mapa real, leído del export de Coursera el 2026-10-03) |
 | Cierre del curso | — |
 
 ## Progreso
 
 | # | Módulo | Estado | *Module challenge* | Hoja de repaso |
 |---|---|---|---|---|
-| — | *(el tracker se llena con el mapa real de lecciones: los nombres de módulo se copian de la pantalla, no se suponen)* | ⬜ | — | — |
+| 1 | Network architecture | ⬜ | — | [[C03-M01-network-architecture]] |
+| 2 | Network operations | ⬜ | — | — |
+| 3 | Secure against network intrusions | ⬜ | — | — |
+| 4 | Security hardening | ⬜ | — | — |
 
 ## Qué aprendí (con mis palabras)
 
@@ -49,5 +52,5 @@ estado: ▶️ en curso
 
 ## Pendientes
 
-- [ ] Copiar el mapa real de módulos al empezar (Course Material).
+- [x] Mapa real de módulos copiado del export de Coursera (2026-10-03): **4** — network architecture · network operations · secure against network intrusions · security hardening.
 - [ ] Decidir si reactivan las prácticas de redes pausadas.
