@@ -28,7 +28,7 @@ límites de la evidencia**. Todavía no es un portafolio de proyectos técnicos:
 |---|---|---|
 | Google Cybersecurity Certificate · **Curso 1** *Foundations of Cybersecurity* | ✅ **4/4** · `Grade: 90.63%` | [certificado](certificates/Coursera%20UM5RDPDAA4ZO.pdf) + capturas de los módulos |
 | Google Cybersecurity Certificate · **Curso 2** *Play It Safe: Manage Security Risks* | ✅ **4/4** · `Grade: 98.51%` · *module challenges* 100 · 100 · 93.75 · 100 | [certificado](certificates/Coursera%2077G70TAQTN4Q.pdf) + captura del 2026-09-30 |
-| Google Cybersecurity Certificate · **Curso 3** *Connect and Protect: Networks and Network Security* | ▶️ inicia el 2026-10-01 | — |
+| Google Cybersecurity Certificate · **Curso 3** *Connect and Protect: Networks and Network Security* | ▶️ en curso desde el 2026-10-03 | — |
 | Hojas de recuperación por módulo | 5 hojas (C01 M01–M04 · C02 M01) | [repaso/](repaso/README.md) |
 | Proyectos técnicos | ⬜ ninguno todavía | fase 2 del plan |
 

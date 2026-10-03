@@ -7,7 +7,7 @@ antiguas esas anotaciones siguen dentro como registro histórico).
 
 ## Día actual
 
-**▶️ Día 9** (2026-10-01: **Curso 3 *Connect and Protect: Networks and Network Security***) ·
+**▶️ Día 9** (2026-10-03: **arranque del Curso 3 *Connect and Protect: Networks and Network Security***) ·
 Último día cerrado: [diario/2026-09-30.md](../diario/2026-09-30.md) · Día 8 sigue abierto por el
 criterio de producción de la hoja C02-M01 (8 dominios CISSP de memoria).
 
@@ -18,6 +18,8 @@ criterio de producción de la hoja C02-M01 (8 dominios CISSP de memoria).
 ## Días de estudio
 
 Del **17 al 30 de septiembre** (14 días): **9 con nota** y **5 sin nota — 23, 25, 27, 28 y 29**.
+Los días **10-01 y 10-02 no hubo bloque de estudio del curso** (fueron de investigación y planificación):
+quedan **sin nota y sin número de día** — el Curso 3 no arrancó hasta el **10-03**.
 No se renumera ningún día: la numeración `Día N` se asigna al **cerrar** el bloque de estudio.
 
 | Día | Fecha | Tema | Nota |
@@ -31,6 +33,7 @@ No se renumera ningún día: la numeración `Día N` se asigna al **cerrar** el 
 | 07 | 09-24 | Curso 2 · módulo 1 *Security domains* (100%) + diseño de las hojas | [2026-09-24](../diario/2026-09-24.md) |
 | — | 09-26 | Repaso SRS medido (18/20) + decisión memoria-vs-consulta | [2026-09-26](../diario/2026-09-26.md) |
 | 08 | 09-30 | Curso 2 · módulos 2–4 → **Curso 2 completo (98.51%)** ✅ verificado | [2026-09-30](../diario/2026-09-30.md) |
+| 09 | 10-03 | **Curso 3 · arranque** (redes y seguridad de red) | [2026-10-03](../diario/2026-10-03.md) |
 
 ## Cómo lo uso a diario
 

@@ -12,7 +12,7 @@ estado: ▶️ en curso
 |---|---|
 | Programa | Google Cybersecurity Certificate (9 cursos) |
 | Proveedor | Google · Coursera |
-| Inicio / cierre | **2026-10-01** → (abierto) |
+| Inicio / cierre | **2026-10-03** → (abierto) |
 | Módulos | por confirmar (no se inventa el número) |
 | Cierre del curso | — |
 
