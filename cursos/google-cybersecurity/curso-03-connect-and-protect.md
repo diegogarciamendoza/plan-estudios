@@ -44,7 +44,9 @@ estado: ▶️ en curso
 | — | ⏳ por determinar |
 
 > Este curso es donde el plan tenía **pausadas** las prácticas de redes más profundas (Packet Tracer /
-> Messer). Se decide si reactivan cuando el curso avance — no antes.
+> Messer). **Decidido el 2026-10-07, al cerrar el Curso 3: siguen pausadas** — el Curso 4 ya reactiva
+> Bandit/TryHackMe/Git y no se abre otro frente. Nueva condición en [[MODO-CURSERA-INGLES]]: Messer con
+> la prep de Security+ (meses 7–8) y Packet Tracer con el primer proyecto de la fase 2.
 
 ## Fuentes útiles
 
@@ -80,4 +82,4 @@ estado: ▶️ en curso
 - [ ] **Capturas** de los *module challenges* de M1 y M2 (🟡 declarado el 10-03) → pasan a ✅.
 - [ ] Hojas **C03-M01** (sin respuestas) y **C03-M02** (sin abrir): deuda de producción del curso.
 - [ ] En M3 y M4, confirmar si las dos actividades («Analyze network layer communication» y «Apply OS hardening techniques») son **calificadas** y si su informe (`Cybersecurity incident report` / `Security risk assessment`) es entregable del portafolio.
-- [ ] Decidir si reactivan las prácticas de redes pausadas (Packet Tracer / Messer): **la condición ya se cumplió** ([[MODO-CURSERA-INGLES]] → «reactiva al llegar al Curso 3»).
+- [x] Prácticas de redes pausadas (Packet Tracer / Messer): **decidido el 2026-10-07 — siguen pausadas**, con la condición re-escrita en [[MODO-CURSERA-INGLES]] (prep de Security+ y fase 2).

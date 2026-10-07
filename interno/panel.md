@@ -14,7 +14,8 @@ producción de la hoja C02-M01 (8 dominios CISSP de memoria) y las hojas **C03-M
 
 > **Modo vigente desde el Día 5**: Coursera + inglés ([detalle](../M1-fundamentos/MODO-CURSERA-INGLES.md)).
 > Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan pausados con condición de
-> reactivación según el curso.
+> reactivación **atada al curso que los cubre**; las prácticas de redes se re-decidieron el **2026-10-07**
+> (siguen pausadas: Messer → prep de Security+, Packet Tracer → fase 2).
 
 ## Días de estudio
 

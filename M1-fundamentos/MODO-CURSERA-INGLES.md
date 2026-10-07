@@ -17,7 +17,7 @@
 | OverTheWire **Bandit** (niveles 9+) | al llegar al **Curso 4 — Tools of the Trade: Linux and SQL** |
 | **TryHackMe** Linux Fundamentals | al llegar al **Curso 4** |
 | Bloque **Git** de 3 sesiones | al llegar al **Curso 4** (mientras tanto ya se usa `status`/`log`/`diff` a diario en el repo) |
-| **Packet Tracer**, redes profundas, videos de Messer | al llegar al **Curso 3 — Networks and Network Security** |
+| **Packet Tracer**, redes profundas, videos de Messer | ⚠️ **condición vencida y re-decidida (2026-10-07)**: la pausa decía *«reactiva al llegar al Curso 3»* y el Curso 3 se cerró; decisión de Diego = **sigue pausado** (el Curso 4 ya reactiva Bandit/TryHackMe/Git: no se abre otro frente). Nueva condición: **prep de Security+ (Packt SY0-701, meses 7–8)** para Messer y el **primer proyecto reproducible de la fase 2** para Packet Tracer. |
 | **SQL y Python** practicados aparte | al llegar a los **Cursos 4 y 7** — el curso los trae: no duplicar |
 | **Wireshark, MITRE ATT&CK, 10 comandos PowerShell** | al llegar al **Curso 6 — Sound the Alarm: Detection and Response** |
 | Análisis de **vacantes/salarios** | al llegar al **Curso 8 — Prepare for Cybersecurity Jobs** |
