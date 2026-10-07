@@ -20,10 +20,12 @@ estado: ▶️ en curso
 
 | # | Módulo | Estado | *Module challenge* | Hoja de repaso |
 |---|---|---|---|---|
-| 1 | Network architecture | ⬜ | — | [[C03-M01-network-architecture]] |
-| 2 | Network operations | ⬜ | — | — |
-| 3 | Secure against network intrusions | ⬜ | — | — |
-| 4 | Security hardening | ⬜ | — | — |
+| 1 | Network architecture | 🟡 | *declarado el 10-03, falta captura* | [[C03-M01-network-architecture]] (sin respuestas) |
+| 2 | Network operations | 🟡 | *declarado el 10-03, falta captura* | ⏳ sin abrir |
+| 3 | Secure against network intrusions | 🔄 en curso (10-07) | — | [[C03-M03-secure-against-network-intrusions]] |
+| 4 | Security hardening | 🔄 en curso (10-07) — **cierra el curso** | — | [[C03-M04-security-hardening]] |
+
+> **Registro honesto:** los módulos 1 y 2 los dio Diego por **cerrados con sus *module challenges* el 2026-10-03** (declarado el 2026-10-07) y no hay captura cargada. Los días **10-04 → 10-06 fueron pausa real** (sin bloque de estudio, sin nota, sin número de día). El número de `Día N` se asigna al **cerrar** el bloque: Día 9 = 10-03 · Día 10 = 10-07.
 
 ## Qué aprendí (con mis palabras)
 
@@ -74,4 +76,8 @@ estado: ▶️ en curso
 ## Pendientes
 
 - [x] Mapa real de módulos copiado del export de Coursera (2026-10-03): **4** — network architecture · network operations · secure against network intrusions · security hardening.
-- [ ] Decidir si reactivan las prácticas de redes pausadas.
+- [x] Hojas de los módulos 3 y 4 abiertas con el mapa real de lecciones (2026-10-07).
+- [ ] **Capturas** de los *module challenges* de M1 y M2 (🟡 declarado el 10-03) → pasan a ✅.
+- [ ] Hojas **C03-M01** (sin respuestas) y **C03-M02** (sin abrir): deuda de producción del curso.
+- [ ] En M3 y M4, confirmar si las dos actividades («Analyze network layer communication» y «Apply OS hardening techniques») son **calificadas** y si su informe (`Cybersecurity incident report` / `Security risk assessment`) es entregable del portafolio.
+- [ ] Decidir si reactivan las prácticas de redes pausadas (Packet Tracer / Messer): **la condición ya se cumplió** ([[MODO-CURSERA-INGLES]] → «reactiva al llegar al Curso 3»).

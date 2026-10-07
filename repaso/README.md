@@ -45,14 +45,16 @@ Decisión tomada el **2026-09-24** con estos datos:
 > **Se desbloquea de dos formas**: **(a)** exportar con la herramienta alternativa (`coursera-scraper`) desde momo, o **(b)** que Diego pegue/dicte las lecciones de *Course Material* del Curso 2 (4 listas) y el asistente abre las hojas con el mapa real.
 > Mientras eso no pase, el **repaso espaciado del Curso 2 queda con un solo punto** (C02-M01): es la deuda real que deja el cierre del curso, y se anota como tal.
 
-### Curso 3 — *Connect and Protect: Networks and Network Security* ▶️ **iniciado el 2026-10-03** · **4 módulos** *(mapa real leído del export de Coursera el 2026-10-03)*
+### Curso 3 — *Connect and Protect: Networks and Network Security* ▶️ **iniciado el 2026-10-03** · **4 módulos** *(mapa real leído del export de Coursera; M3 y M4 el 2026-10-07)*
+
+> ⏰ **Estado al 2026-10-07:** M1 y M2 **cerrados con sus *module challenges*** — 🟡 *declarado* (falta la captura). M3 y M4 se abren **hoy**; con M4 cierra el curso completo.
 
 | Módulo | Título | Hoja | Estado |
 |---|---|---|---|
-| M01 | Network architecture | [[C03-M01-network-architecture]] | 🖊️ abierta (2026-10-03) |
-| M02 | Network operations | ⏳ sin abrir | — |
-| M03 | Secure against network intrusions | ⏳ sin abrir | — |
-| M04 | Security hardening | ⏳ sin abrir | — |
+| M01 | Network architecture | [[C03-M01-network-architecture]] | 🟡 cerrado el 10-03 *(declarado, sin captura)* · 🖊️ hoja **sin respuestas** |
+| M02 | Network operations | ⏳ **deuda**: módulo hecho, hoja sin abrir | 🟡 cerrado el 10-03 *(declarado, sin captura)* |
+| M03 | Secure against network intrusions | [[C03-M03-secure-against-network-intrusions]] | 🖊️ abierta (2026-10-07) · 14 términos |
+| M04 | Security hardening | [[C03-M04-security-hardening]] | 🖊️ abierta (2026-10-07) · 10 términos · **cierra el curso** |
 
 ### Cursos 4–9 *(títulos verificados 2026-09-24; nº de módulos por verificar cuando toque)*
 
@@ -87,4 +89,4 @@ Decisión tomada el **2026-09-24** con estos datos:
 | <https://professormesser.com> | Repaso en video Network+/Security+ |
 
 ---
-_Actualizado: 2026-09-30_
+_Actualizado: 2026-10-07_

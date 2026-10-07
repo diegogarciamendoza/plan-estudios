@@ -13,7 +13,7 @@ Regla: **el tracker de un curso se abre cuando el curso empieza** (no se pre-cre
 |---|---|---|---|
 | 1 | Foundations of Cybersecurity | ✅ **4/4** · `Grade: 90.63%` | [curso-01](google-cybersecurity/curso-01-foundations.md) |
 | 2 | Play It Safe: Manage Security Risks | ✅ **4/4** · `Grade: 98.51%` | [curso-02](google-cybersecurity/curso-02-play-it-safe.md) |
-| 3 | Connect and Protect: Networks and Network Security | ▶️ inicia 2026-10-01 | [curso-03](google-cybersecurity/curso-03-connect-and-protect.md) |
+| 3 | Connect and Protect: Networks and Network Security | 🔄 **M1–M2 cerrados** (🟡 declarado, sin captura) · M3–M4 en curso (2026-10-07) | [curso-03](google-cybersecurity/curso-03-connect-and-protect.md) |
 | 4 | Tools of the Trade: Linux and SQL | ⬜ no iniciado | — |
 | 5 | Assets, Threats, and Vulnerabilities | ⬜ no iniciado | — |
 | 6 | Sound the Alarm: Detection and Response | ⬜ no iniciado | — |

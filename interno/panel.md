@@ -7,9 +7,10 @@ antiguas esas anotaciones siguen dentro como registro histórico).
 
 ## Día actual
 
-**▶️ Día 9** (2026-10-03: **arranque del Curso 3 *Connect and Protect: Networks and Network Security***) ·
-Último día cerrado: [diario/2026-09-30.md](../diario/2026-09-30.md) · Día 8 sigue abierto por el
-criterio de producción de la hoja C02-M01 (8 dominios CISSP de memoria).
+**▶️ Día 10** (2026-10-07: **Curso 3 · módulos 03 y 04 → cierre del curso**) ·
+Último día con nota: [diario/2026-10-07.md](../diario/2026-10-07.md). El **Día 9** (10-03) cierra con
+M1 y M2 **declarados** (faltan las capturas de sus *module challenges*); siguen abiertos el criterio de
+producción de la hoja C02-M01 (8 dominios CISSP de memoria) y las hojas **C03-M01/M02**.
 
 > **Modo vigente desde el Día 5**: Coursera + inglés ([detalle](../M1-fundamentos/MODO-CURSERA-INGLES.md)).
 > Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan pausados con condición de
@@ -20,6 +21,8 @@ criterio de producción de la hoja C02-M01 (8 dominios CISSP de memoria).
 Del **17 al 30 de septiembre** (14 días): **9 con nota** y **5 sin nota — 23, 25, 27, 28 y 29**.
 Los días **10-01 y 10-02 no hubo bloque de estudio del curso** (fueron de investigación y planificación):
 quedan **sin nota y sin número de día** — el Curso 3 no arrancó hasta el **10-03**.
+Los días **10-04, 10-05 y 10-06** también fueron **pausa real** (declarado el 2026-10-07): sin nota y sin
+número de día; el bloque se retoma el **10-07**.
 No se renumera ningún día: la numeración `Día N` se asigna al **cerrar** el bloque de estudio.
 
 | Día | Fecha | Tema | Nota |
@@ -33,7 +36,8 @@ No se renumera ningún día: la numeración `Día N` se asigna al **cerrar** el 
 | 07 | 09-24 | Curso 2 · módulo 1 *Security domains* (100%) + diseño de las hojas | [2026-09-24](../diario/2026-09-24.md) |
 | — | 09-26 | Repaso SRS medido (18/20) + decisión memoria-vs-consulta | [2026-09-26](../diario/2026-09-26.md) |
 | 08 | 09-30 | Curso 2 · módulos 2–4 → **Curso 2 completo (98.51%)** ✅ verificado | [2026-09-30](../diario/2026-09-30.md) |
-| 09 | 10-03 | **Curso 3 · arranque** (redes y seguridad de red) | [2026-10-03](../diario/2026-10-03.md) |
+| 09 | 10-03 | **Curso 3 · arranque** (redes y seguridad de red) + M1–M2 cerrados (🟡 declarado) | [2026-10-03](../diario/2026-10-03.md) |
+| 10 | 10-07 | Curso 3 · módulos 3 y 4 → **cierre del curso** | [2026-10-07](../diario/2026-10-07.md) |
 
 ## Cómo lo uso a diario
 
