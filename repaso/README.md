@@ -36,7 +36,7 @@ Decisión tomada el **2026-09-24** con estos datos:
 
 | Módulo | Título | Duración | Hoja | Estado |
 |---|---|---|---|---|
-| M01 | Security domains | 2h18m | [[C02-M01-security-domains]] | ✅ **100%** (2026-09-24) · 🖊️ **criterio de producción pendiente** |
+| M01 | Security domains | 2h18m | [[C02-M01-security-domains]] | ✅ **100%** (2026-09-24) · ✅ **producción cerrada el 2026-10-07** (8 dominios CISSP de memoria: 8/8 de contenido; la forma escrita la vigila el SRS) |
 | M02 | Security frameworks and controls *(aquí entra OWASP)* | 3h07m | ⏳ sin abrir | 🟡 terminado (declarado 30-09) |
 | M03 | Introduction to cybersecurity tools *(SIEM, dashboards)* | 1h40m | ⏳ sin abrir | 🟡 terminado (declarado 30-09) |
 | M04 | Use playbooks to respond to incidents | 1h55m | ⏳ sin abrir | 🟡 terminado (declarado 30-09) |

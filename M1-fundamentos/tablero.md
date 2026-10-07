@@ -6,7 +6,6 @@ kanban-plugin: board
 
 - [ ] 📝 README con mi objetivo (se lee en 30 s)
 - [ ] 🇬🇧 Glosario: 20 términos con mi definición en inglés
-- [ ] 🇬🇧 Producir de memoria en inglés los 8 dominios CISSP (línea base 3/8 · 2026-09-20)
 - [ ] 🇬🇧 **Writing + speaking = cuello de botella medido**: EFSET 4-skills 2026-09-21 → **C1 66** *(R 74 · L 81 · **W 59 B2** · **S 48 B1**)*; plan de producción pendiente de decisión ([[2026-09-21]])
 - [ ] 🔁 4+ commits en el repo (mínimo uno por día de estudio)
 - [ ] 📚 **Bloque Git (3 sesiones: modelo · historial/deshacer · ramas)** — diagnóstico hecho 4/10 el 2026-09-20; criterios de cierre en [[git-fundamentos]]
@@ -26,6 +25,7 @@ kanban-plugin: board
 
 ## Hecho
 
+- [x] 🇬🇧 **8 dominios CISSP producidos de memoria** — 2026-10-07: **8/8 de contenido**, dichos en voz alta y escritos (línea base 3/8 el 2026-09-20). Queda **vigilada la forma**: *access* · *assessment* · *Communication* (singular) → tarjetas SRS `1789955829861` y `1789955829882`, con el frente reescrito para exigir deletreo y número exactos.
 - [x] 🧭 **Rediseño del repo (vitrina + taller)** — 2026-09-30: README vitrina (se lee en 20 s, solo progreso verificado) · `cursos/` (tracker por curso) · `entregables/` · `proyectos/` (vacío declarado) · `interno/panel.md` · `hojas/` → `repaso/` · plantillas `diaria-ligera` y `tracker-curso` · revisión externa (Luna) en `~/notas/2026-09-30-luna-revision-estructura.md`
 - [x] 🎓 Coursera: **Curso 2 *Play It Safe* COMPLETO (4/4)** — 2026-09-30 *(evidencia: ✅ **captura verificada con visión** · `You passed this course!` · `Grade: 98.51%` · *module challenges* **100 · 100 · 93.75 · 100** · portfolio activities 100% · certificado `certificates/Coursera 77G70TAQTN4Q.pdf` · [[2026-09-30]])*
 - [x] 🃏 **Hojas de recuperación por módulo** (decisión: por módulo, no por curso) — plantilla `plantillas/hoja-modulo.md` + índice y fuentes verificadas en `repaso/README.md` + ejemplo lleno (C1-M04) + C2-M01 lista — 2026-09-24

@@ -9,8 +9,9 @@ antiguas esas anotaciones siguen dentro como registro histórico).
 
 **▶️ Día 10** (2026-10-07: **Curso 3 · módulos 03 y 04 → cierre del curso**) ·
 Último día con nota: [diario/2026-10-07.md](../diario/2026-10-07.md). El **Día 9** (10-03) cierra con
-M1 y M2 **declarados** (faltan las capturas de sus *module challenges*); siguen abiertos el criterio de
-producción de la hoja C02-M01 (8 dominios CISSP de memoria) y las hojas **C03-M01/M02**.
+M1 y M2 **declarados** (faltan las capturas de sus *module challenges*); siguen abiertos las hojas
+**C03-M01/M02**. El criterio de producción del **Día 8** (8 dominios CISSP de memoria) **se cerró el
+2026-10-07** (8/8 de contenido; la forma queda vigilada en el SRS).
 
 > **Modo vigente desde el Día 5**: Coursera + inglés ([detalle](../M1-fundamentos/MODO-CURSERA-INGLES.md)).
 > Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan pausados con condición de
