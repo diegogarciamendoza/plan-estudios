@@ -7,11 +7,14 @@ antiguas esas anotaciones siguen dentro como registro histórico).
 
 ## Día actual
 
-**▶️ Día 10** (2026-10-07: **Curso 3 · módulos 03 y 04 → cierre del curso**) ·
-Último día con nota: [diario/2026-10-07.md](../diario/2026-10-07.md). El **Día 9** (10-03) cierra con
-M1 y M2 **declarados** (faltan las capturas de sus *module challenges*); siguen abiertos las hojas
-**C03-M01/M02**. El criterio de producción del **Día 8** (8 dominios CISSP de memoria) **se cerró el
-2026-10-07** (8/8 de contenido; la forma queda vigilada en el SRS).
+**▶️ Día 11** (2026-10-08: **arranque del Curso 4 *Tools of the Trade: Linux and SQL***) ·
+Último día cerrado: [diario/2026-10-07.md](../diario/2026-10-07.md) — **Curso 3 completo** (`Grade: 98.81%`,
+certificado ✅). Quedan abiertos: las **hojas del Curso 3 sin responder** (C03-M01/M02/M03/M04) y la
+*portfolio activity* NIST por reformatear.
+
+> ⚠️ **Decisión pendiente para el 10-08:** con el **Curso 4** vencen las condiciones de reactivación de
+> **Bandit 9+ / TryHackMe Linux Fundamentals / bloque Git** ([[MODO-CURSERA-INGLES]]). Se decide al
+> arrancar el bloque — no antes.
 
 > **Modo vigente desde el Día 5**: Coursera + inglés ([detalle](../M1-fundamentos/MODO-CURSERA-INGLES.md)).
 > Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan pausados con condición de
@@ -39,7 +42,7 @@ No se renumera ningún día: la numeración `Día N` se asigna al **cerrar** el 
 | — | 09-26 | Repaso SRS medido (18/20) + decisión memoria-vs-consulta | [2026-09-26](../diario/2026-09-26.md) |
 | 08 | 09-30 | Curso 2 · módulos 2–4 → **Curso 2 completo (98.51%)** ✅ verificado | [2026-09-30](../diario/2026-09-30.md) |
 | 09 | 10-03 | **Curso 3 · arranque** (redes y seguridad de red) + M1–M2 cerrados (🟡 declarado) | [2026-10-03](../diario/2026-10-03.md) |
-| 10 | 10-07 | Curso 3 · módulos 3 y 4 → **cierre del curso** | [2026-10-07](../diario/2026-10-07.md) |
+| 10 | 10-07 | Curso 3 · módulos 3 y 4 → **Curso 3 completo (98.81%)** ✅ verificado + SRS oral | [2026-10-07](../diario/2026-10-07.md) |
 
 ## Cómo lo uso a diario
 

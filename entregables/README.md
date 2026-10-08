@@ -12,6 +12,7 @@ inventa material para llenar la carpeta.
 | Trabajo | Curso / origen | Estado | Qué no pretende demostrar |
 |---|---|---|---|
 | Evaluación de controles de seguridad | Google C02 · *Portfolio Activity* | 🟡 **existe** (calificado **100%**), pendiente de reformatear a formato propio | auditoría de una organización real |
+| Respuesta a un incidente con el marco NIST | Google C03 · *Portfolio Activity* | 🟡 **existe** (calificado **100%** el 2026-10-07), pendiente de reformatear a formato propio | respuesta real a un incidente |
 | Investigación de mercado laboral (México) | Trabajo propio (2026-09-16) | ✅ terminada — [informe](../vacantes-analisis.md) · [versión remota global](../vacantes-remoto-global.md) | garantía de empleo o de salario |
 | Glosario SOC en inglés | Trabajo propio, transversal | ✅ en curso (56+ términos) — [glosario](../glosario.md) | dominio del inglés hablado |
 | Professional statement | Google C01 · *Portfolio Activity* | ⬜ **en evaluación** (decisión pendiente de Diego) | experiencia laboral real |

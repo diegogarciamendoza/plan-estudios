@@ -9,7 +9,7 @@ límites de la evidencia**. Todavía no es un portafolio de proyectos técnicos:
 - **Objetivo:** construir los fundamentos de un puesto inicial en SOC / seguridad defensiva.
 - **Enfoque:** redes, seguridad defensiva, análisis, Linux, SQL, Python y comunicación técnica.
 - **Método:** estudiar → explicarlo con mis palabras → practicarlo → registrar la evidencia.
-- **Ahora:** Google Cybersecurity Certificate (2 de 9 cursos) + inglés técnico aplicado.
+- **Ahora:** Google Cybersecurity Certificate (3 de 9 cursos) + inglés técnico aplicado.
 
 ## Qué puedes inspeccionar
 
@@ -28,8 +28,8 @@ límites de la evidencia**. Todavía no es un portafolio de proyectos técnicos:
 |---|---|---|
 | Google Cybersecurity Certificate · **Curso 1** *Foundations of Cybersecurity* | ✅ **4/4** · `Grade: 90.63%` | [certificado](certificates/Coursera%20UM5RDPDAA4ZO.pdf) + capturas de los módulos |
 | Google Cybersecurity Certificate · **Curso 2** *Play It Safe: Manage Security Risks* | ✅ **4/4** · `Grade: 98.51%` · *module challenges* 100 · 100 · 93.75 · 100 | [certificado](certificates/Coursera%2077G70TAQTN4Q.pdf) + captura del 2026-09-30 |
-| Google Cybersecurity Certificate · **Curso 3** *Connect and Protect: Networks and Network Security* | ▶️ en curso desde el 2026-10-03 | — |
-| Hojas de recuperación por módulo | 5 hojas (C01 M01–M04 · C02 M01) | [repaso/](repaso/README.md) |
+| Google Cybersecurity Certificate · **Curso 3** *Connect and Protect: Networks and Network Security* | ✅ **4/4** · `Grade: 98.81%` · *module challenges* 100 · 100 · 100 · 95 | [certificado](certificates/Coursera%20PW6BNH40F818.pdf) + captura de *Grades* del 2026-10-07 |
+| Hojas de recuperación por módulo | 8 hojas (C01 M01–M04 · C02 M01 · C03 M01/M03/M04) | [repaso/](repaso/README.md) |
 | Proyectos técnicos | ⬜ ninguno todavía | fase 2 del plan |
 
 Estados: **✅ verificado** (existe evidencia que revisé) · **🟡 declarado o en progreso** (falta

@@ -13,7 +13,7 @@ kanban-plugin: board
 
 ## En curso
 
-- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — **Curso 1 ✅** (`90.63%`) · **Curso 2 ✅** (`98.51%`, captura verificada el 2026-09-30) → en curso **Curso 3 *Connect and Protect: Networks and Network Security*** · Mapa en [[MES-1-DETALLADO]] · **hojas de repaso por módulo** en [[repaso/README|repaso/]] · trackers en [[cursos/README|cursos/]]
+- [ ] 🎓 **Certificado Google Cybersecurity** (**9 cursos**, no 8 — verificado 2026-09-22) — **Curso 1 ✅** (`90.63%`) · **Curso 2 ✅** (`98.51%`) · **Curso 3 ✅** (`98.81%`, certificado `Oct 8, 2026`) → arranca **Curso 4 *Tools of the Trade: Linux and SQL*** (2026-10-08) · Mapa en [[MES-1-DETALLADO]] · **hojas de repaso por módulo** en [[repaso/README|repaso/]] · trackers en [[cursos/README|cursos/]]
 
 ## ⏸️ Pausado (reactiva con los cursos 3/4/6/7 — ver [[MODO-CURSERA-INGLES]])
 
@@ -25,6 +25,7 @@ kanban-plugin: board
 
 ## Hecho
 
+- [x] 🎓 Coursera: **Curso 3 *Connect and Protect* COMPLETO (4/4)** — 2026-10-07 *(evidencia: ✅ **captura verificada con visión** · `You passed this course!` · `Grade: 98.81%` · *module challenges* **100 · 100 · 100 · 95** · `Graded Quizzes` 98.75% · *portfolio activity* NIST `Passed` 100% · certificado `certificates/Coursera PW6BNH40F818.pdf` (`Oct 8, 2026`, verificado en la fuente) · [[2026-10-07]])*
 - [x] 🇬🇧 **8 dominios CISSP producidos de memoria** — 2026-10-07: **8/8 de contenido**, dichos en voz alta y escritos (línea base 3/8 el 2026-09-20). Queda **vigilada la forma**: *access* · *assessment* · *Communication* (singular) → tarjetas SRS `1789955829861` y `1789955829882`, con el frente reescrito para exigir deletreo y número exactos.
 - [x] 🧭 **Rediseño del repo (vitrina + taller)** — 2026-09-30: README vitrina (se lee en 20 s, solo progreso verificado) · `cursos/` (tracker por curso) · `entregables/` · `proyectos/` (vacío declarado) · `interno/panel.md` · `hojas/` → `repaso/` · plantillas `diaria-ligera` y `tracker-curso` · revisión externa (Luna) en `~/notas/2026-09-30-luna-revision-estructura.md`
 - [x] 🎓 Coursera: **Curso 2 *Play It Safe* COMPLETO (4/4)** — 2026-09-30 *(evidencia: ✅ **captura verificada con visión** · `You passed this course!` · `Grade: 98.51%` · *module challenges* **100 · 100 · 93.75 · 100** · portfolio activities 100% · certificado `certificates/Coursera 77G70TAQTN4Q.pdf` · [[2026-09-30]])*

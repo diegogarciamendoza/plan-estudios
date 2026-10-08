@@ -14,18 +14,18 @@ estado: ▶️ en curso
 | Proveedor | Google · Coursera |
 | Inicio / cierre | **2026-10-03** → (abierto) |
 | Módulos | **4** (mapa real, leído del export de Coursera el 2026-10-03) |
-| Cierre del curso | — |
+| Cierre del curso | ✅ **2026-10-07** · `Grade: 98.81%` · certificado `Oct 8, 2026` |
 
 ## Progreso
 
 | # | Módulo | Estado | *Module challenge* | Hoja de repaso |
 |---|---|---|---|---|
-| 1 | Network architecture | 🟡 | *declarado el 10-03, falta captura* | [[C03-M01-network-architecture]] (sin respuestas) |
-| 2 | Network operations | 🟡 | *declarado el 10-03, falta captura* | ⏳ sin abrir |
-| 3 | Secure against network intrusions | 🔄 en curso (10-07) | — | [[C03-M03-secure-against-network-intrusions]] |
-| 4 | Security hardening | 🔄 en curso (10-07) — **cierra el curso** | — | [[C03-M04-security-hardening]] |
+| 1 | Network architecture | ✅ | **100%** · `Passed` | [[C03-M01-network-architecture]] (hoja sin responder) |
+| 2 | Network operations | ✅ | **100%** · `Passed` | ⏳ sin abrir |
+| 3 | Secure against network intrusions | ✅ | **100%** · `Passed` | [[C03-M03-secure-against-network-intrusions]] (hoja sin responder) |
+| 4 | Security hardening | ✅ | **95%** · `Passed` | [[C03-M04-security-hardening]] (hoja sin responder) |
 
-> **Registro honesto:** los módulos 1 y 2 los dio Diego por **cerrados con sus *module challenges* el 2026-10-03** (declarado el 2026-10-07) y no hay captura cargada. Los días **10-04 → 10-06 fueron pausa real** (sin bloque de estudio, sin nota, sin número de día). El número de `Día N` se asigna al **cerrar** el bloque: Día 9 = 10-03 · Día 10 = 10-07.
+> **Cómo se cerró (auditable):** M1 y M2 los declaró Diego el 2026-10-07 (los había dado por hechos el 10-03) y esa misma noche **quedaron verificados** con la captura de *Grades* del curso: `You passed this course!` · `Your grade is 98.81%` · `Graded Quizzes` (peso 95%) `98.75%` · los cuatro *module challenges* `Passed`. Los días **10-04 → 10-06 fueron pausa real** (sin bloque, sin nota, sin número de día). El número de `Día N` se asigna al **cerrar** el bloque: Día 9 = 10-03 · Día 10 = 10-07.
 
 ## Qué aprendí (con mis palabras)
 
@@ -33,15 +33,18 @@ estado: ▶️ en curso
 
 ## Evidencia
 
-| Qué | Dónde |
-|---|---|
-| — | *(capturas de los `module challenges` + certificado al cerrar el curso)* |
+| Qué | Dato literal | Cómo se verificó |
+|---|---|---|
+| Curso aprobado | `You passed this course!` · `Your grade is 98.81%` | `attachments/2026-10-07 curso.png` · visión 2026-10-07 |
+| Los 4 *module challenges* | `Passed` · **100 · 100 · 100 · 95** | idem |
+| Portfolio activity | *Use the NIST cybersecurity framework to respond to a security incident* · `Passed` · **100%** · `Due Oct 21, 11:59 PM CST` | idem |
+| Certificado | `Oct 8, 2026` · `Verify at: https://coursera.org/verify/PW6BNH40F818` | `certificates/Coursera PW6BNH40F818.pdf` · `read_file` + `og:title` en la fuente (HTTP 200) |
 
 ## Entregables
 
 | Trabajo | Estado |
 |---|---|
-| — | ⏳ por determinar |
+| *Use the NIST cybersecurity framework to respond to a security incident* (*Portfolio Activity*, 5% del curso) | 🟡 **existe** — calificado **100%** (`Passed`, 2026-10-07); pendiente **reformatear** al formato de [`entregables/`](../../entregables/README.md) y etiquetarlo como *ejercicio educativo sobre el escenario del curso* |
 
 > Este curso es donde el plan tenía **pausadas** las prácticas de redes más profundas (Packet Tracer /
 > Messer). **Decidido el 2026-10-07, al cerrar el Curso 3: siguen pausadas** — el Curso 4 ya reactiva
@@ -79,7 +82,8 @@ estado: ▶️ en curso
 
 - [x] Mapa real de módulos copiado del export de Coursera (2026-10-03): **4** — network architecture · network operations · secure against network intrusions · security hardening.
 - [x] Hojas de los módulos 3 y 4 abiertas con el mapa real de lecciones (2026-10-07).
-- [ ] **Capturas** de los *module challenges* de M1 y M2 (🟡 declarado el 10-03) → pasan a ✅.
-- [ ] Hojas **C03-M01** (sin respuestas) y **C03-M02** (sin abrir): deuda de producción del curso.
-- [ ] En M3 y M4, confirmar si las dos actividades («Analyze network layer communication» y «Apply OS hardening techniques») son **calificadas** y si su informe (`Cybersecurity incident report` / `Security risk assessment`) es entregable del portafolio.
+- [x] **Capturas de los *module challenges***: la captura de *Grades* del 2026-10-07 verifica **los cuatro** (`Passed`, 100 · 100 · 100 · 95) y el cierre del curso.
+- [x] Actividades calificadas: la única **calificada** del curso es la *Portfolio Activity* (NIST, 5% de peso) — las que tienen «ejemplar» (M3 y M4) son práctica, no calificadas.
+- [ ] Hojas **C03-M01** (sin responder), **C03-M02** (sin abrir), **M03** y **M04**: deuda de producción del curso.
+- [ ] Reformatear la *Portfolio Activity* NIST al formato de `entregables/`.
 - [x] Prácticas de redes pausadas (Packet Tracer / Messer): **decidido el 2026-10-07 — siguen pausadas**, con la condición re-escrita en [[MODO-CURSERA-INGLES]] (prep de Security+ y fase 2).

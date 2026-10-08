@@ -45,16 +45,16 @@ Decisión tomada el **2026-09-24** con estos datos:
 > **Se desbloquea de dos formas**: **(a)** exportar con la herramienta alternativa (`coursera-scraper`) desde momo, o **(b)** que Diego pegue/dicte las lecciones de *Course Material* del Curso 2 (4 listas) y el asistente abre las hojas con el mapa real.
 > Mientras eso no pase, el **repaso espaciado del Curso 2 queda con un solo punto** (C02-M01): es la deuda real que deja el cierre del curso, y se anota como tal.
 
-### Curso 3 — *Connect and Protect: Networks and Network Security* ▶️ **iniciado el 2026-10-03** · **4 módulos** *(mapa real leído del export de Coursera; M3 y M4 el 2026-10-07)*
+### Curso 3 — *Connect and Protect: Networks and Network Security* ✅ **completado el 2026-10-07** (`Grade: 98.81%` · *module challenges* 100 · 100 · 100 · 95) · **4 módulos** *(mapa real leído del export de Coursera; M3 y M4 el 2026-10-07)*
 
-> ⏰ **Estado al 2026-10-07:** M1 y M2 **cerrados con sus *module challenges*** — 🟡 *declarado* (falta la captura). M3 y M4 se abren **hoy**; con M4 cierra el curso completo.
+> ⏰ **Deuda real del curso: las cuatro hojas quedaron sin responder.** El curso lo cerró la plataforma; **la hoja la cierra la producción**. Se contestan como *repaso espaciado retro*, sin volver a los videos, y lo que no salga señala la tarjeta SRS.
 
 | Módulo | Título | Hoja | Estado |
 |---|---|---|---|
-| M01 | Network architecture | [[C03-M01-network-architecture]] | 🟡 cerrado el 10-03 *(declarado, sin captura)* · 🖊️ hoja **sin respuestas** |
-| M02 | Network operations | ⏳ **deuda**: módulo hecho, hoja sin abrir | 🟡 cerrado el 10-03 *(declarado, sin captura)* |
-| M03 | Secure against network intrusions | [[C03-M03-secure-against-network-intrusions]] | 🖊️ abierta (2026-10-07) · 14 términos |
-| M04 | Security hardening | [[C03-M04-security-hardening]] | 🖊️ abierta (2026-10-07) · 10 términos · **cierra el curso** |
+| M01 | Network architecture | [[C03-M01-network-architecture]] | ✅ módulo **100%** · 🖊️ hoja **sin responder** |
+| M02 | Network operations | ⏳ sin abrir | ✅ módulo **100%** · **deuda**: hoja que nunca se abrió |
+| M03 | Secure against network intrusions | [[C03-M03-secure-against-network-intrusions]] | ✅ módulo **100%** · 🖊️ hoja sin responder · 14 términos |
+| M04 | Security hardening | [[C03-M04-security-hardening]] | ✅ módulo **95%** · 🖊️ hoja sin responder · 10 términos · *portfolio activity* `Passed` **100%** |
 
 ### Cursos 4–9 *(títulos verificados 2026-09-24; nº de módulos por verificar cuando toque)*
 
