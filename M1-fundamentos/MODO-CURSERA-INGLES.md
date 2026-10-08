@@ -14,13 +14,15 @@
 
 | Pausado | Se reactiva cuando |
 |---|---|
-| OverTheWire **Bandit** (niveles 9+) | al llegar al **Curso 4 — Tools of the Trade: Linux and SQL** |
-| **TryHackMe** Linux Fundamentals | al llegar al **Curso 4** |
-| Bloque **Git** de 3 sesiones | al llegar al **Curso 4** (mientras tanto ya se usa `status`/`log`/`diff` a diario en el repo) |
+| OverTheWire **Bandit** (niveles 9+) | al llegar al **Curso 4** → ⚠️ **vencida y re-decidida (2026-10-07): sigue pausado** ¹ |
+| **TryHackMe** Linux Fundamentals | al llegar al **Curso 4** → ⚠️ **vencida y re-decidida (2026-10-07): sigue pausado** ¹ |
+| Bloque **Git** de 3 sesiones | al llegar al **Curso 4** (mientras tanto ya se usa `status`/`log`/`diff` a diario en el repo) → ⚠️ **vencida y re-decidida (2026-10-07): sigue pausado** ¹ |
 | **Packet Tracer**, redes profundas, videos de Messer | ⚠️ **condición vencida y re-decidida (2026-10-07)**: la pausa decía *«reactiva al llegar al Curso 3»* y el Curso 3 se cerró; decisión de Diego = **sigue pausado** (el Curso 4 ya reactiva Bandit/TryHackMe/Git: no se abre otro frente). Nueva condición: **prep de Security+ (Packt SY0-701, meses 7–8)** para Messer y el **primer proyecto reproducible de la fase 2** para Packet Tracer. |
 | **SQL y Python** practicados aparte | al llegar a los **Cursos 4 y 7** — el curso los trae: no duplicar |
 | **Wireshark, MITRE ATT&CK, 10 comandos PowerShell** | al llegar al **Curso 6 — Sound the Alarm: Detection and Response** |
 | Análisis de **vacantes/salarios** | al llegar al **Curso 8 — Prepare for Cybersecurity Jobs** |
+
+> ¹ **Decisión del 2026-10-07 (Día 10), con el Curso 4 ya encima:** Bandit 9+, TryHackMe Linux Fundamentals y el bloque Git **siguen pausados**. Motivo: el propio Curso 4 trae Linux y SQL **con práctica**, y sumar tres frentes en paralelo es exactamente el riesgo nº 1 del plan (demasiados frentes abiertos). Se revisan en el **domingo-flex**, y solo si el curso va holgado. Los commits diarios del repo ya cubren `status`/`log`/`diff` de forma natural.
 
 ## Lo que NO se pausa
 

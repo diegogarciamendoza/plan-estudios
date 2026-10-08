@@ -17,8 +17,8 @@ kanban-plugin: board
 
 ## ⏸️ Pausado (reactiva con los cursos 3/4/6/7 — ver [[MODO-CURSERA-INGLES]])
 
-- [ ] 📚 **Bloque Git (3 sesiones: modelo · historial/deshacer · ramas)** — diagnóstico hecho 4/10 el 2026-09-20; criterios de cierre en [[git-fundamentos]]; reactiva al llegar al **Curso 4**
-- [ ] 🧪 **Bandit niveles 9+ / TryHackMe Linux Fundamentals** — reactivan al llegar al **Curso 4** (Bandit 0→8 ya está en *Hecho*)
+- [ ] 📚 **Bloque Git (3 sesiones: modelo · historial/deshacer · ramas)** — diagnóstico hecho 4/10 el 2026-09-20; criterios de cierre en [[git-fundamentos]]; ⏸️ **re-decidido el 2026-10-07 al llegar el Curso 4: sigue pausado** (se revisa en el domingo-flex) — [[MODO-CURSERA-INGLES]] ¹
+- [ ] 🧪 **Bandit niveles 9+ / TryHackMe Linux Fundamentals** — ⏸️ **re-decidido el 2026-10-07: siguen pausados** al llegar el Curso 4 (el curso trae Linux/SQL con práctica; se revisan en el domingo-flex) — [[MODO-CURSERA-INGLES]] ¹
 - [ ] 🧪 **Packet Tracer / redes profundas (Messer)** — ⏸️ **sigue pausado por decisión del 2026-10-07** (la condición «al llegar al Curso 3» se cumplió y se re-decidió no reactivar): Messer entra con la **prep de Security+** (meses 7–8) y Packet Tracer con el **primer proyecto de la fase 2** ([[MODO-CURSERA-INGLES]])
 - [ ] 🧪 **Wireshark / MITRE ATT&CK / 10 comandos PowerShell** — reactivan al llegar al **Curso 6**
 - [ ] 🧪 **SQL y Python practicados aparte** — no duplicar: los trae el **Curso 4 (Linux and SQL)** y el **Curso 7 (Python)**

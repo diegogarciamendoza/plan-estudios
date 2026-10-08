@@ -12,9 +12,9 @@ antiguas esas anotaciones siguen dentro como registro histórico).
 certificado ✅). Quedan abiertos: las **hojas del Curso 3 sin responder** (C03-M01/M02/M03/M04) y la
 *portfolio activity* NIST por reformatear.
 
-> ⚠️ **Decisión pendiente para el 10-08:** con el **Curso 4** vencen las condiciones de reactivación de
-> **Bandit 9+ / TryHackMe Linux Fundamentals / bloque Git** ([[MODO-CURSERA-INGLES]]). Se decide al
-> arrancar el bloque — no antes.
+> ✅ **Decidido el 2026-10-07:** con el Curso 4 llegaron también las condiciones de **Bandit 9+ /
+> TryHackMe Linux / bloque Git** → **los tres siguen pausados** (el curso ya trae Linux y SQL con
+> práctica); se revisan en el **domingo-flex** ([[MODO-CURSERA-INGLES]] ¹).
 
 > **Modo vigente desde el Día 5**: Coursera + inglés ([detalle](../M1-fundamentos/MODO-CURSERA-INGLES.md)).
 > Los labs paralelos (Bandit, bloque Git, Packet Tracer, Messer) quedan pausados con condición de
